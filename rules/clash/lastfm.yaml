@@ -1,0 +1,4 @@
+payload:
+  - DOMAIN-SUFFIX,last.fm
+  - DOMAIN,lastfm.freetls.fastly.net
+  - DOMAIN,ws.audioscrobbler.com

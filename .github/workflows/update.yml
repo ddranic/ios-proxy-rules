@@ -1,0 +1,45 @@
+name: Update Proxy Rules
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Go
+        uses: actions/setup-go@v5
+        with:
+          go-version-file: go.mod
+
+      - name: Clone V2Ray Domain List
+        run: |
+          git clone --depth 1 https://github.com/v2fly/domain-list-community.git v2fly_src
+          echo "V2FLY_SHA=$(git -C v2fly_src rev-parse --short HEAD)" >> "$GITHUB_ENV"
+          rm -rf data
+          mv v2fly_src/data data
+          rm -rf v2fly_src
+
+      - name: Generate rules
+        run: go run ./cmd/rulegen
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A rules
+          if git diff --cached --quiet; then
+            echo "No changes detected"
+            exit 0
+          fi
+          git commit -m "Auto-update: $(date +'%Y-%m-%d %H:%M') v2fly:${V2FLY_SHA}"
+          git push
+  

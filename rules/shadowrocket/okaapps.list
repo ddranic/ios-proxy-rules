@@ -1,0 +1,2 @@
+DOMAIN-SUFFIX,okaapps.com
+URL-REGEX,^https?://(.+\.)*zh\.okaapps\.com(?::\d+)?(?:/|$)
