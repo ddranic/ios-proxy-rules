@@ -14,14 +14,14 @@ You don't need to run the generator yourself. Use these auto-updated direct link
 ### Shadowrocket / Surge / Loon
 Copy the URL and add it as a **Remote Rule** (Rule List):
 
-*   **TikTok:** `https://raw.githubusercontent.com/ddranic/ios-proxy-rules/main/rules/tiktok.list`
-*   **YouTube:** `https://raw.githubusercontent.com/ddranic/ios-proxy-rules/main/rules/youtube.list`
+*   **TikTok:** `https://raw.githubusercontent.com/ddranic/ios-proxy-rules/main/rules/shadowrocket/tiktok.list`
+*   **YouTube:** `https://raw.githubusercontent.com/ddranic/ios-proxy-rules/main/rules/shadowrocket/youtube.list`
 
 ### Clash / Stash
 Add these URLs to your `rule-providers`:
 
-*   **TikTok:** `https://raw.githubusercontent.com/ddranic/ios-proxy-rules/main/rules/tiktok.yaml`
-*   **YouTube:** `https://raw.githubusercontent.com/ddranic/ios-proxy-rules/main/rules/youtube.yaml`
+*   **TikTok:** `https://raw.githubusercontent.com/ddranic/ios-proxy-rules/main/rules/clash/tiktok.yaml`
+*   **YouTube:** `https://raw.githubusercontent.com/ddranic/ios-proxy-rules/main/rules/clash/youtube.yaml`
 
 > [!TIP]
 > Find more rules for other services in [/rules](./rules) folder.
