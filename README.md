@@ -11,13 +11,13 @@ Auto rule generator that converts `v2fly/domain-list-community` source lists int
 
 You don't need to run the generator yourself. Use these auto-updated direct links for your proxy client:
 
-### Shadowrocket / Surge / Loon
+#### Shadowrocket / Surge / Loon
 Copy the URL and add it as a **Remote Rule** (Rule List):
 
 *   **TikTok:** `https://raw.githubusercontent.com/ddranic/ios-proxy-rules/main/rules/shadowrocket/tiktok.list`
 *   **YouTube:** `https://raw.githubusercontent.com/ddranic/ios-proxy-rules/main/rules/shadowrocket/youtube.list`
 
-### Clash / Stash
+#### Clash / Stash
 Add these URLs to your `rule-providers`:
 
 *   **TikTok:** `https://raw.githubusercontent.com/ddranic/ios-proxy-rules/main/rules/clash/tiktok.yaml`
