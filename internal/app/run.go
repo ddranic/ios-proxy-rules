@@ -8,32 +8,22 @@ import (
 )
 
 type Config struct {
-	InputDir  string
-	OutputDir string
+	Input  string
+	Output string
 }
 
-type Report struct {
-	GeneratedLists int
-}
-
-func Run(cfg Config) (Report, error) {
-	result, err := parser.Parse(cfg.InputDir)
+func Run(cfg Config) (int, error) {
+	parser := parser.NewParser(cfg.Input)
+	lists, err := parser.Parse()
 	if err != nil {
-		return Report{}, fmt.Errorf("parse domain lists: %w", err)
-	}
-	if len(result.Lists) == 0 {
-		return Report{}, fmt.Errorf("no source lists found in %q", cfg.InputDir)
+		return 0, fmt.Errorf("parse lists: %w", err)
 	}
 
-	g, err := generator.New(cfg.OutputDir)
+	generator := generator.NewGenerator(cfg.Output)
+	err = generator.Generate(lists)
 	if err != nil {
-		return Report{}, fmt.Errorf("create generator: %w", err)
-	}
-	if err := g.Generate(result.Lists); err != nil {
-		return Report{}, fmt.Errorf("generate rules: %w", err)
+		return 0, fmt.Errorf("generate rules: %w", err)
 	}
 
-	return Report{
-		GeneratedLists: len(result.Lists),
-	}, nil
+	return len(lists), nil
 }

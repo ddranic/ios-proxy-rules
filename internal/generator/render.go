@@ -1,10 +1,22 @@
 package generator
 
 import (
+	"fmt"
 	"strings"
 
 	"github.com/ddranic/ios-proxy-rules/internal/core"
 )
+
+func render(platform Platform, name string, rules []core.Rule) ([]string, error) {
+	switch platform {
+	case PlatformShadowrocket, PlatformLoon, PlatformSurge, PlatformStash:
+		return renderShadowrocketFamily(name, rules)
+	case PlatformClash:
+		return renderClashFamily(name, rules)
+	default:
+		return nil, fmt.Errorf("unsupported platform %q", platform)
+	}
+}
 
 func renderShadowrocketFamily(_ string, rules []core.Rule) ([]string, error) {
 	lines := make([]string, 0, len(rules))
@@ -23,7 +35,7 @@ func renderShadowrocketFamily(_ string, rules []core.Rule) ([]string, error) {
 	return lines, nil
 }
 
-func renderClashYAML(_ string, rules []core.Rule) ([]string, error) {
+func renderClashFamily(_ string, rules []core.Rule) ([]string, error) {
 	lines := make([]string, 0, len(rules)+1)
 	lines = append(lines, "payload:")
 	for _, rule := range rules {

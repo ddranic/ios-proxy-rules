@@ -10,7 +10,7 @@ const (
 	PlatformClash        Platform = "clash"
 )
 
-var AllPlatforms = []Platform{
+var Platforms = []Platform{
 	PlatformShadowrocket,
 	PlatformLoon,
 	PlatformSurge,
@@ -18,7 +18,17 @@ var AllPlatforms = []Platform{
 	PlatformClash,
 }
 
+type Extension string
+
 const (
-	extList = ".list"
-	extYAML = ".yaml"
+	ExtensionList = ".list"
+	ExtensionYaml = ".yaml"
 )
+
+var PlatformsExtensions = map[Platform]string{
+	PlatformShadowrocket: ExtensionList,
+	PlatformLoon:         ExtensionList,
+	PlatformSurge:        ExtensionList,
+	PlatformStash:        ExtensionList,
+	PlatformClash:        ExtensionYaml,
+}
