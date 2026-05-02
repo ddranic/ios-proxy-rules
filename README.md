@@ -9,7 +9,8 @@ Auto rule generator that converts `v2fly/domain-list-community` source lists int
 
 ## How to Use
 
-You don't need to run the generator yourself. Use these auto-updated direct links for your proxy client:
+> [!IMPORTANT]  
+> You don't need to run the generator yourself. Use these auto-updated direct links for your proxy client:
 
 #### Shadowrocket / Surge / Loon
 Copy the URL and add it as a **Remote Rule** (Rule List):
