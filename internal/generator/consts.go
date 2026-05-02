@@ -6,7 +6,6 @@ const (
 	PlatformShadowrocket Platform = "shadowrocket"
 	PlatformLoon         Platform = "loon"
 	PlatformSurge        Platform = "surge"
-	PlatformStash        Platform = "stash"
 	PlatformClash        Platform = "clash"
 )
 
@@ -14,7 +13,6 @@ var Platforms = []Platform{
 	PlatformShadowrocket,
 	PlatformLoon,
 	PlatformSurge,
-	PlatformStash,
 	PlatformClash,
 }
 
@@ -29,6 +27,5 @@ var PlatformsExtensions = map[Platform]string{
 	PlatformShadowrocket: ExtensionList,
 	PlatformLoon:         ExtensionList,
 	PlatformSurge:        ExtensionList,
-	PlatformStash:        ExtensionList,
 	PlatformClash:        ExtensionYaml,
 }

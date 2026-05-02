@@ -9,7 +9,7 @@ import (
 
 func render(platform Platform, name string, rules []core.Rule) ([]string, error) {
 	switch platform {
-	case PlatformShadowrocket, PlatformLoon, PlatformSurge, PlatformStash:
+	case PlatformShadowrocket, PlatformLoon, PlatformSurge:
 		return renderShadowrocketFamily(name, rules)
 	case PlatformClash:
 		return renderClashFamily(name, rules)

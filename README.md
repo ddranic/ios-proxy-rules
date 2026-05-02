@@ -4,11 +4,8 @@ Auto rule generator that converts `v2fly/domain-list-community` source lists int
 
 ## Platforms
 
-- Shadowrocket
-- Loon
-- Surge
-- Stash
-- Clash
+- Shadowrocket / Loon / Surge (`.list`)
+- Clash / Stash (`.yaml`)
 
 ## Run
 
