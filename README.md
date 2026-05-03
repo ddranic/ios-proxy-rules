@@ -1,6 +1,6 @@
 # ios-proxy-rules
 
-Auto rule generator that converts `v2fly/domain-list-community` source lists into iOS/cross-client rule formats.
+Auto rule generator that converts `v2fly/domain-list-community` source lists into iOS rule formats.
 
 ## Platforms
 
