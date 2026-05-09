@@ -511,6 +511,7 @@ payload:
   - DOMAIN-SUFFIX,alimei.com
   - DOMAIN-SUFFIX,alimmdn.com
   - DOMAIN-SUFFIX,alios.cn
+  - DOMAIN-SUFFIX,alipay-eco.com
   - DOMAIN-SUFFIX,alipay.cn
   - DOMAIN-SUFFIX,alipay.com
   - DOMAIN-SUFFIX,alipay.com.cn
@@ -3690,6 +3691,96 @@ payload:
   - DOMAIN,api.carrottrack.app
   - DOMAIN,api.dashly.app
   - DOMAIN,api.dashlytrack.app
+  - DOMAIN-SUFFIX,517lppz.com
+  - DOMAIN-SUFFIX,lppz.com
+  - DOMAIN-SUFFIX,lppzimg.com
+  - DOMAIN-SUFFIX,100.me
+  - DOMAIN-SUFFIX,ddcorp.net
+  - DOMAIN-SUFFIX,ddfresh.net
+  - DOMAIN-SUFFIX,ddimg.mobi
+  - DOMAIN-SUFFIX,ddmaicai.net
+  - DOMAIN-SUFFIX,ddmc.mobi
+  - DOMAIN-SUFFIX,dduser.mobi
+  - DOMAIN-SUFFIX,ddxq.mobi
+  - DOMAIN-SUFFIX,imaicai.mobi
+  - DOMAIN-SUFFIX,lkcoffee.com
+  - DOMAIN-SUFFIX,luckincoffeecdn.com
+  - DOMAIN-SUFFIX,yyds.co
+  - DOMAIN-SUFFIX,happymeal.com.au
+  - DOMAIN-SUFFIX,mcdelivery.com.au
+  - DOMAIN-SUFFIX,mcdonalds.com.au
+  - DOMAIN-SUFFIX,4008-517-517.cn
+  - DOMAIN-SUFFIX,mcd.cn
+  - DOMAIN-SUFFIX,mcdchina.net
+  - DOMAIN-SUFFIX,mcdonalds.com.cn
+  - DOMAIN-SUFFIX,mcdonalds.hk
+  - DOMAIN-SUFFIX,mcdonalds.com.hk
+  - DOMAIN-SUFFIX,mcdelivery.co.in
+  - DOMAIN-SUFFIX,mcdindia.com
+  - DOMAIN-SUFFIX,mcdelivery.co.id
+  - DOMAIN-SUFFIX,mcdindonesia.com
+  - DOMAIN-SUFFIX,mcdonalds.co.id
+  - DOMAIN-SUFFIX,mcdonalds.co.jp
+  - DOMAIN-SUFFIX,mcdonalds-online.com
+  - DOMAIN-SUFFIX,mcd-holdings.co.jp
+  - DOMAIN-SUFFIX,mcdelivery.co.kr
+  - DOMAIN-SUFFIX,mcdonalds.co.kr
+  - DOMAIN-SUFFIX,mcdelivery.com.tw
+  - DOMAIN-SUFFIX,mcdonalds.com.tw
+  - DOMAIN-SUFFIX,aboutmcdonalds.com
+  - DOMAIN-SUFFIX,happymeal.co.nz
+  - DOMAIN-SUFFIX,happymeal.com
+  - DOMAIN-SUFFIX,happymealdigital.com
+  - DOMAIN-SUFFIX,mcd.com
+  - DOMAIN-SUFFIX,mcdelivery.com.my
+  - DOMAIN-SUFFIX,mcdelivery.com.ph
+  - DOMAIN-SUFFIX,mcdelivery.com.sg
+  - DOMAIN-SUFFIX,mcdonalds.be
+  - DOMAIN-SUFFIX,mcdonalds.ca
+  - DOMAIN-SUFFIX,mcdonalds.it
+  - DOMAIN-SUFFIX,mcdonalds.no
+  - DOMAIN-SUFFIX,mcdonalds.se
+  - DOMAIN-SUFFIX,mcdonalds.co.nz
+  - DOMAIN-SUFFIX,mcdonalds.co.uk
+  - DOMAIN-SUFFIX,mcdonalds.com
+  - DOMAIN-SUFFIX,mcdonalds.com.lb
+  - DOMAIN-SUFFIX,mcdonalds.com.my
+  - DOMAIN-SUFFIX,mcdonalds.com.ph
+  - DOMAIN-SUFFIX,mcdonaldsapps.com
+  - DOMAIN-SUFFIX,mcdonaldsarabia.com
+  - DOMAIN-SUFFIX,mcdonaldsparties.co.nz
+  - DOMAIN-SUFFIX,3songshu.com
+  - DOMAIN-SUFFIX,haidilao.com
+  - DOMAIN-SUFFIX,hdlcdns.com
+  - DOMAIN-SUFFIX,kiwa-tech.com
+  - DOMAIN-SUFFIX,heytea.com
+  - DOMAIN-SUFFIX,anlaiye.com
+  - DOMAIN-SUFFIX,anlaiye.com.cn
+  - DOMAIN-SUFFIX,imcoming.com
+  - DOMAIN-SUFFIX,imcome.net
+  - DOMAIN-SUFFIX,meican.com
+  - DOMAIN-SUFFIX,meicanstatic.com
+  - DOMAIN-SUFFIX,nongfuspring.com
+  - DOMAIN-SUFFIX,yst.com.cn
+  - DOMAIN-SUFFIX,wahaha.com.cn
+  - DOMAIN-SUFFIX,whhhealth.com
+  - DOMAIN-SUFFIX,shuxinyc.com
+  - DOMAIN-SUFFIX,mxbc.com
+  - DOMAIN-SUFFIX,mxbc.net
+  - DOMAIN-SUFFIX,hophing.cn
+  - DOMAIN-SUFFIX,hophing.com.cn
+  - DOMAIN-SUFFIX,bkchina.cn
+  - DOMAIN-SUFFIX,hwwt8.com
+  - DOMAIN-SUFFIX,kfc.com.cn
+  - DOMAIN-SUFFIX,yumchina.com
+  - DOMAIN-SUFFIX,qmai.com
+  - DOMAIN-SUFFIX,qmai.cn
+  - DOMAIN-SUFFIX,qmimg.cn
+  - DOMAIN-SUFFIX,dicos.com.cn
+  - DOMAIN-SUFFIX,logger.qmai.cn
+  - DOMAIN-SUFFIX,tracking.mcdonalds.com.cn
+  - DOMAIN-SUFFIX,trackingprd.hwwt8.com
+  - DOMAIN-SUFFIX,trackserver.shuxinyc.com
   - DOMAIN-SUFFIX,cctv.cn
   - DOMAIN-SUFFIX,cctv.com
   - DOMAIN-SUFFIX,cctvlib.cn
@@ -5757,7 +5848,15 @@ payload:
   - DOMAIN-SUFFIX,apiok.ru
   - DOMAIN-SUFFIX,insideok.ru
   - DOMAIN-SUFFIX,odkl.ru
+  - DOMAIN-SUFFIX,odnoklasniki.by
+  - DOMAIN-SUFFIX,odnoklasniki.ua
+  - DOMAIN-SUFFIX,odnoklassniki.am
+  - DOMAIN-SUFFIX,odnoklassniki.by
+  - DOMAIN-SUFFIX,odnoklassniki.co.ee
+  - DOMAIN-SUFFIX,odnoklassniki.eu
+  - DOMAIN-SUFFIX,odnoklassniki.lv
   - DOMAIN-SUFFIX,odnoklassniki.ru
+  - DOMAIN-SUFFIX,odnoklassniki.tj
   - DOMAIN-SUFFIX,ok.me
   - DOMAIN-SUFFIX,ok.ru
   - DOMAIN-SUFFIX,okl.lt
@@ -5848,6 +5947,10 @@ payload:
   - DOMAIN-SUFFIX,yclients.com
   - DOMAIN-SUFFIX,xn--80asgb.xn--p1ai
   - DOMAIN-SUFFIX,xn--e1aigb.xn--p1ai
+  - DOMAIN-SUFFIX,justveryok.com
+  - DOMAIN-SUFFIX,keyboardmen.com
+  - DOMAIN-SUFFIX,rabbitcounter.com
+  - DOMAIN-SUFFIX,sayeasy.eu
   - DOMAIN-SUFFIX,ad.mail.ru
   - DOMAIN-SUFFIX,ads.viqeo.tv
   - DOMAIN-SUFFIX,adsadvisor.io
