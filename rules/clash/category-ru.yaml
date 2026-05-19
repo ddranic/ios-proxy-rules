@@ -1245,6 +1245,7 @@ payload:
   - DOMAIN,mc.yango.com
   - DOMAIN,pixel.yandex.com
   - DOMAIN,report.ap.yandex-net.ru
+  - DOMAIN-SUFFIX,alfa.me
   - DOMAIN-SUFFIX,alfabank.ru
   - DOMAIN-SUFFIX,alfabank.st
   - DOMAIN-SUFFIX,alfadirect.ru
@@ -1547,6 +1548,7 @@ payload:
   - DOMAIN-SUFFIX,nbki.ru
   - DOMAIN-SUFFIX,moex.com
   - DOMAIN-SUFFIX,spvb.ru
+  - DOMAIN-SUFFIX,efin.ru
   - DOMAIN-SUFFIX,banki.ru
   - DOMAIN-SUFFIX,finuslugi.ru
   - DOMAIN-SUFFIX,sistema-capital.com
@@ -1595,6 +1597,7 @@ payload:
   - DOMAIN-SUFFIX,ngenix.net
   - DOMAIN-SUFFIX,ognihome.com
   - DOMAIN-SUFFIX,pochta.ru
+  - DOMAIN-SUFFIX,ponyexpress.ru
   - DOMAIN-SUFFIX,qms.ru
   - DOMAIN-SUFFIX,srv-hub.org
   - DOMAIN-SUFFIX,t1.cloud
