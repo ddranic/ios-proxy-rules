@@ -142,6 +142,7 @@ payload:
   - DOMAIN-SUFFIX,meta.ai
   - DOMAIN-SUFFIX,minimax.io
   - DOMAIN-SUFFIX,mistral.ai
+  - DOMAIN-SUFFIX,mozilla.ai
   - DOMAIN-SUFFIX,ollama.com
   - DOMAIN-SUFFIX,openart.ai
   - DOMAIN-SUFFIX,openclaw.ai

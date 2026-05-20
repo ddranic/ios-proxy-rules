@@ -141,6 +141,7 @@ DOMAIN-SUFFIX,lovart.ai
 DOMAIN-SUFFIX,meta.ai
 DOMAIN-SUFFIX,minimax.io
 DOMAIN-SUFFIX,mistral.ai
+DOMAIN-SUFFIX,mozilla.ai
 DOMAIN-SUFFIX,ollama.com
 DOMAIN-SUFFIX,openart.ai
 DOMAIN-SUFFIX,openclaw.ai
@@ -23665,14 +23666,16 @@ DOMAIN-SUFFIX,mdn.mozit.cloud
 DOMAIN-SUFFIX,mdnplay.dev
 DOMAIN-SUFFIX,mdnyalp.dev
 DOMAIN,mdn.mozillademos.org
+DOMAIN-SUFFIX,bugzilla.org
+DOMAIN-SUFFIX,extensionworkshop.com
+DOMAIN-SUFFIX,getpocket.com
 DOMAIN-SUFFIX,mozgcp.net
 DOMAIN-SUFFIX,mozilla.com
 DOMAIN-SUFFIX,mozilla.community
 DOMAIN-SUFFIX,mozilla.net
 DOMAIN-SUFFIX,mozilla.org
-DOMAIN-SUFFIX,extensionworkshop.com
-DOMAIN-SUFFIX,bugzilla.org
-DOMAIN-SUFFIX,getpocket.com
+DOMAIN-SUFFIX,mozillafoundation.org
+DOMAIN-SUFFIX,mzl.la
 DOMAIN-SUFFIX,seamonkey-project.org
 DOMAIN-SUFFIX,thunderbird.net
 DOMAIN-SUFFIX,msi.cn
