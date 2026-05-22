@@ -2014,6 +2014,11 @@ payload:
   - DOMAIN-SUFFIX,standardchartered.com
   - DOMAIN,standchartbank.sc.omtrdc.net
   - DOMAIN,standchartbank.tt.omtrdc.net
+  - DOMAIN-SUFFIX,link.com
+  - DOMAIN-SUFFIX,stripe-terminal-local-reader.net
+  - DOMAIN-SUFFIX,stripe.com
+  - DOMAIN-SUFFIX,stripe.network
+  - DOMAIN-SUFFIX,stripecdn.com
   - DOMAIN-SUFFIX,transferwise.com
   - DOMAIN-SUFFIX,wise.com
   - DOMAIN-SUFFIX,fxcorporate.com
@@ -2474,11 +2479,6 @@ payload:
   - DOMAIN-SUFFIX,softbankusa.net
   - DOMAIN-SUFFIX,softbankventuresasia.com
   - DOMAIN-SUFFIX,softbankworld.com
-  - DOMAIN-SUFFIX,link.com
-  - DOMAIN-SUFFIX,stripe-terminal-local-reader.net
-  - DOMAIN-SUFFIX,stripe.com
-  - DOMAIN-SUFFIX,stripe.network
-  - DOMAIN-SUFFIX,stripecdn.com
   - DOMAIN-SUFFIX,visa.be
   - DOMAIN-SUFFIX,visa.ca
   - DOMAIN-SUFFIX,visa.cl
