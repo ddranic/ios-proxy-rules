@@ -13,6 +13,8 @@ func render(platform Platform, name string, rules []core.Rule) ([]string, error)
 		return renderShadowrocketFamily(name, rules)
 	case PlatformClash:
 		return renderClashFamily(name, rules)
+	case PlatformSingbox:
+		return renderSingboxGeoSite(rules)
 	default:
 		return nil, fmt.Errorf("unsupported platform %q", platform)
 	}

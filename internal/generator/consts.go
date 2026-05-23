@@ -7,6 +7,7 @@ const (
 	PlatformLoon         Platform = "loon"
 	PlatformSurge        Platform = "surge"
 	PlatformClash        Platform = "clash"
+	PlatformSingbox      Platform = "singbox"
 )
 
 var Platforms = []Platform{
@@ -14,6 +15,7 @@ var Platforms = []Platform{
 	PlatformLoon,
 	PlatformSurge,
 	PlatformClash,
+	PlatformSingbox,
 }
 
 type Extension string
@@ -21,6 +23,7 @@ type Extension string
 const (
 	ExtensionList = ".list"
 	ExtensionYaml = ".yaml"
+	ExtensionJSON = ".json"
 )
 
 var PlatformsExtensions = map[Platform]string{
@@ -28,4 +31,5 @@ var PlatformsExtensions = map[Platform]string{
 	PlatformLoon:         ExtensionList,
 	PlatformSurge:        ExtensionList,
 	PlatformClash:        ExtensionYaml,
+	PlatformSingbox:      ExtensionJSON,
 }

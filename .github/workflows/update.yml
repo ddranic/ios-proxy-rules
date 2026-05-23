@@ -32,6 +32,19 @@ jobs:
       - name: Generate rules
         run: go run ./cmd/rulegen -geosite dlc.dat -geoip geoip.dat
 
+      - name: Install sing-box
+        run: |
+          version=$(curl -fsSL https://api.github.com/repos/SagerNet/sing-box/releases/latest | grep '"tag_name"' | sed 's/.*"v\([^"]*\)".*/\1/')
+          curl -fsSL "https://github.com/SagerNet/sing-box/releases/latest/download/sing-box-${version}-linux-amd64.tar.gz" | tar xz --strip-components=1 "sing-box-${version}-linux-amd64/sing-box"
+          sudo mv sing-box /usr/local/bin/
+
+      - name: Compile sing-box rule-sets
+        run: |
+          find geosite/singbox geoip/singbox -name "*.json" | while read f; do
+            sing-box rule-set compile "$f"
+            rm "$f"
+          done
+
       - name: Commit and Push
         run: |
           git config --global user.name "github-actions[bot]"

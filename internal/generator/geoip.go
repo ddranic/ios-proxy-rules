@@ -1,19 +1,23 @@
 package generator
 
 import (
+	"fmt"
 	"strings"
 
 	"github.com/ddranic/ios-proxy-rules/internal/parser"
 )
 
-func renderGeoIP(platform Platform, entry parser.GeoIPEntry) []string {
+func renderGeoIP(platform Platform, entry parser.GeoIPEntry) ([]string, error) {
 	switch platform {
 	case PlatformShadowrocket, PlatformLoon, PlatformSurge:
-		return renderGeoIPList(entry.CIDRs)
+		return renderGeoIPList(entry.CIDRs), nil
 	case PlatformClash:
-		return renderGeoIPClash(entry.CIDRs)
+		return renderGeoIPClash(entry.CIDRs), nil
+	case PlatformSingbox:
+		return renderSingboxGeoIP(entry)
+	default:
+		return nil, fmt.Errorf("unsupported platform %q", platform)
 	}
-	return nil
 }
 
 func renderGeoIPList(cidrs []string) []string {

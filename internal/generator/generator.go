@@ -101,7 +101,10 @@ func (g *Generator) writeList(dir string, list core.RuleList) error {
 
 func (g *Generator) writeGeoIPEntry(dir string, entry parser.GeoIPEntry) error {
 	for _, platform := range Platforms {
-		lines := renderGeoIP(platform, entry)
+		lines, err := renderGeoIP(platform, entry)
+		if err != nil {
+			return fmt.Errorf("render geoip %s/%s: %w", platform, entry.CountryCode, err)
+		}
 		path := filepath.Join(dir, "geoip", string(platform), entry.CountryCode+PlatformsExtensions[platform])
 		if err := os.WriteFile(path, linesToBytes(lines), FileMode); err != nil {
 			return fmt.Errorf("write %q: %w", path, err)
