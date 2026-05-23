@@ -1,5 +1,8 @@
 # ios-proxy-rules
 
+[![Update](https://github.com/ddranic/ios-proxy-rules/actions/workflows/update.yml/badge.svg)](https://github.com/ddranic/ios-proxy-rules/actions/workflows/update.yml)
+[![Last Commit](https://img.shields.io/github/last-commit/ddranic/ios-proxy-rules)](https://github.com/ddranic/ios-proxy-rules/commits/main)
+
 Auto rule generator that converts `v2fly` source lists into iOS rule formats.
 
 ## Platforms
