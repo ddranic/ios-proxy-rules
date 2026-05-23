@@ -11,6 +11,9 @@ Auto rule generator that converts `v2fly` source lists into iOS rule formats.
 
 ## How to Use
 
+> [!WARNING]
+> URLs have changed: `rules/` is replaced by `geosite/` (domains) and `geoip/` (IP ranges). Please update your links.
+
 > [!IMPORTANT]  
 > You don't need to run the generator yourself. Use these auto-updated direct links for your proxy client.
 
