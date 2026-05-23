@@ -8,41 +8,20 @@ Auto rule generator that converts `v2fly` source lists into iOS rule formats.
 - Loon (`.list`)
 - Surge (`.list`)
 - Clash / Stash (`.yaml`)
+- sing-box (`.srs`)
 
 ## How to Use
 
-> [!WARNING]
-> URLs have changed: `rules/` is replaced by `geosite/` (domains) and `geoip/` (IP ranges). Please update your links.
-
 > [!IMPORTANT]  
-> You don't need to run the generator yourself. Use these auto-updated direct links for your proxy client.
+> You don't need to run the generator yourself. Use these auto-updated direct links for your proxy platform.
 
-#### Shadowrocket
-Copy the URL and add it as a **Remote Rule** (Rule List):
+Example for Shadowrocket:
 
-*   **YouTube:** `https://raw.githubusercontent.com/ddranic/ios-proxy-rules/main/geosite/shadowrocket/youtube.list`
-*   **US IPs:** `https://raw.githubusercontent.com/ddranic/ios-proxy-rules/main/geoip/shadowrocket/us.list`
-
-#### Loon
-Copy the URL and add it as a **Remote Rule** (Rule List):
-
-*   **YouTube:** `https://raw.githubusercontent.com/ddranic/ios-proxy-rules/main/geosite/loon/youtube.list`
-*   **US IPs:** `https://raw.githubusercontent.com/ddranic/ios-proxy-rules/main/geoip/loon/us.list`
-
-#### Surge
-Copy the URL and add it as a **Remote Rule** (Rule List):
-
-*   **YouTube:** `https://raw.githubusercontent.com/ddranic/ios-proxy-rules/main/geosite/surge/youtube.list`
-*   **US IPs:** `https://raw.githubusercontent.com/ddranic/ios-proxy-rules/main/geoip/surge/us.list`
-
-#### Clash / Stash
-Add these URLs to your `rule-providers`:
-
-*   **YouTube:** `https://raw.githubusercontent.com/ddranic/ios-proxy-rules/main/geosite/clash/youtube.yaml`
-*   **US IPs:** `https://raw.githubusercontent.com/ddranic/ios-proxy-rules/main/geoip/clash/us.yaml`
+*   **YouTube:** `https://cdn.jsdelivr.net/gh/ddranic/ios-proxy-rules@main/geosite/shadowrocket/youtube.list`
+*   **China IPs:** `https://cdn.jsdelivr.net/gh/ddranic/ios-proxy-rules@main/geoip/shadowrocket/cn.list`
 
 > [!TIP]
-> Find more rules in [/geosite](./geosite) (domains) and [/geoip](./geoip) (IP ranges) folders.
+> Browse all rules: [/geosite](./geosite) (domains) · [/geoip](./geoip) (IP ranges)
 
 ## Run
 
