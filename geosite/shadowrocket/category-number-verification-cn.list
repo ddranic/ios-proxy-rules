@@ -1,0 +1,7 @@
+DOMAIN-SUFFIX,cmpassport.com
+DOMAIN,enrichgw.10010.com
+DOMAIN,hap.10010.com
+DOMAIN,hs.wosms.cn
+DOMAIN,id6.me
+DOMAIN,opencloud.wostore.cn
+URL-REGEX,^https?://nis.+\.10010\.com(?::\d+)?(?:/|$)

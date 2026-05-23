@@ -2,7 +2,7 @@ name: Update Proxy Rules
 
 on:
   schedule:
-    - cron: '0 */6 * * *'
+    - cron: '0 */4 * * *'
   workflow_dispatch:
 
 env:
@@ -24,26 +24,23 @@ jobs:
           go-version-file: go.mod
           cache: false
 
-      - name: Clone V2Ray Domain List
+      - name: Download source data
         run: |
-          git clone --depth 1 https://github.com/v2fly/domain-list-community.git v2fly_src
-          echo "V2FLY_SHA=$(git -C v2fly_src rev-parse --short HEAD)" >> "$GITHUB_ENV"
-          rm -rf data
-          mv v2fly_src/data data
-          rm -rf v2fly_src
+          curl -fsSL https://github.com/v2fly/domain-list-community/releases/latest/download/dlc.dat -o dlc.dat
+          curl -fsSL https://github.com/v2fly/geoip/releases/latest/download/geoip.dat -o geoip.dat
 
       - name: Generate rules
-        run: go run ./cmd/rulegen
+        run: go run ./cmd/rulegen -geosite dlc.dat -geoip geoip.dat
 
       - name: Commit and Push
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add -A rules
+          git add -A geosite geoip
           if git diff --cached --quiet; then
             echo "No changes detected"
             exit 0
           fi
-          git commit -m "Auto-update: $(date +'%Y-%m-%d %H:%M') v2fly:${V2FLY_SHA}"
+          git commit -m "Auto-update: $(date +'%Y-%m-%d %H:%M')"
           git push
   

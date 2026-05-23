@@ -3,25 +3,38 @@ package app
 import (
 	"fmt"
 
+	"github.com/ddranic/ios-proxy-rules/internal/core"
 	"github.com/ddranic/ios-proxy-rules/internal/generator"
 	"github.com/ddranic/ios-proxy-rules/internal/parser"
 )
 
 type Config struct {
-	Input  string
-	Output string
+	GeoSite string
+	GeoIP   string
+	Output  string
 }
 
 func Run(cfg Config) (int, error) {
-	parser := parser.NewParser(cfg.Input)
-	lists, err := parser.Parse()
-	if err != nil {
-		return 0, fmt.Errorf("parse lists: %w", err)
+	var lists []core.RuleList
+	if cfg.GeoSite != "" {
+		var err error
+		lists, err = parser.ParseGeoSite(cfg.GeoSite)
+		if err != nil {
+			return 0, fmt.Errorf("parse geosite: %w", err)
+		}
 	}
 
-	generator := generator.NewGenerator(cfg.Output)
-	err = generator.Generate(lists)
-	if err != nil {
+	var entries []parser.GeoIPEntry
+	if cfg.GeoIP != "" {
+		var err error
+		entries, err = parser.ParseGeoIP(cfg.GeoIP)
+		if err != nil {
+			return 0, fmt.Errorf("parse geoip: %w", err)
+		}
+	}
+
+	gen := generator.NewGenerator(cfg.Output)
+	if err := gen.Generate(lists, entries); err != nil {
 		return 0, fmt.Errorf("generate rules: %w", err)
 	}
 

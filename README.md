@@ -1,6 +1,6 @@
 # ios-proxy-rules
 
-Auto rule generator that converts `v2fly/domain-list-community` source lists into iOS rule formats.
+Auto rule generator that converts `v2fly` source lists into iOS rule formats.
 
 ## Platforms
 
@@ -17,34 +17,32 @@ Auto rule generator that converts `v2fly/domain-list-community` source lists int
 #### Shadowrocket
 Copy the URL and add it as a **Remote Rule** (Rule List):
 
-*   **Facebook:** `https://raw.githubusercontent.com/ddranic/ios-proxy-rules/main/rules/shadowrocket/facebook.list`
-*   **YouTube:** `https://raw.githubusercontent.com/ddranic/ios-proxy-rules/main/rules/shadowrocket/youtube.list`
+*   **YouTube:** `https://raw.githubusercontent.com/ddranic/ios-proxy-rules/main/geosite/shadowrocket/youtube.list`
+*   **US IPs:** `https://raw.githubusercontent.com/ddranic/ios-proxy-rules/main/geoip/shadowrocket/us.list`
 
 #### Loon
 Copy the URL and add it as a **Remote Rule** (Rule List):
 
-*   **Facebook:** `https://raw.githubusercontent.com/ddranic/ios-proxy-rules/main/rules/loon/facebook.list`
-*   **YouTube:** `https://raw.githubusercontent.com/ddranic/ios-proxy-rules/main/rules/loon/youtube.list`
+*   **YouTube:** `https://raw.githubusercontent.com/ddranic/ios-proxy-rules/main/geosite/loon/youtube.list`
+*   **US IPs:** `https://raw.githubusercontent.com/ddranic/ios-proxy-rules/main/geoip/loon/us.list`
 
 #### Surge
 Copy the URL and add it as a **Remote Rule** (Rule List):
 
-*   **Facebook:** `https://raw.githubusercontent.com/ddranic/ios-proxy-rules/main/rules/surge/facebook.list`
-*   **YouTube:** `https://raw.githubusercontent.com/ddranic/ios-proxy-rules/main/rules/surge/youtube.list`
+*   **YouTube:** `https://raw.githubusercontent.com/ddranic/ios-proxy-rules/main/geosite/surge/youtube.list`
+*   **US IPs:** `https://raw.githubusercontent.com/ddranic/ios-proxy-rules/main/geoip/surge/us.list`
 
 #### Clash / Stash
 Add these URLs to your `rule-providers`:
 
-*   **Facebook:** `https://raw.githubusercontent.com/ddranic/ios-proxy-rules/main/rules/clash/facebook.yaml`
-*   **YouTube:** `https://raw.githubusercontent.com/ddranic/ios-proxy-rules/main/rules/clash/youtube.yaml`
+*   **YouTube:** `https://raw.githubusercontent.com/ddranic/ios-proxy-rules/main/geosite/clash/youtube.yaml`
+*   **US IPs:** `https://raw.githubusercontent.com/ddranic/ios-proxy-rules/main/geoip/clash/us.yaml`
 
 > [!TIP]
-> Find more rules for other services in [/rules](./rules) folder.
+> Find more rules in [/geosite](./geosite) (domains) and [/geoip](./geoip) (IP ranges) folders.
 
 ## Run
 
-Use defaults (`-input data`, `-output rules`):
-
 ```bash
-go run ./cmd/rulegen
+go run ./cmd/rulegen -geosite dlc.dat -geoip geoip.dat
 ```

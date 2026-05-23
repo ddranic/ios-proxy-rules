@@ -9,13 +9,15 @@ import (
 )
 
 func main() {
-	input := flag.String("input", "data", "Path to source domain-list directory")
-	output := flag.String("output", "rules", "Path to generated rules directory")
+	geosite := flag.String("geosite", "", "Path to v2fly domain-list directory")
+	geoip := flag.String("geoip", "", "Path to geoip.dat")
+	output := flag.String("output", ".", "Path to output directory")
 	flag.Parse()
 
 	generated, err := app.Run(app.Config{
-		Input:  *input,
-		Output: *output,
+		GeoSite: *geosite,
+		GeoIP:   *geoip,
+		Output:  *output,
 	})
 	if err != nil {
 		fmt.Fprintf(os.Stderr, "error: %v\n", err)
