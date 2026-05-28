@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "189.cn",
+        "bestpay.cn",
+        "bestpay.com.cn",
+        "chinatelecom-h.com",
+        "chinatelecom.com.cn",
+        "chinatelecomglobal.com",
+        "chinatelecomhk.com",
+        "chntel.com",
+        "ctexcel.ca",
+        "ctexcel.com.hk",
+        "ctexcel.com",
+        "ctexcel.fr",
+        "ctexcel.us",
+        "vnet.cn"
+      ]
+    }
+  ]
+}

@@ -37,7 +37,7 @@ jobs:
 
       - name: Compile sing-box rule-sets
         run: |
-          find geosite/singbox geoip/singbox -name "*.json" | xargs -P4 -I{} sh -c 'sing-box rule-set compile "$1" && rm "$1"' _ {}
+          find geosite/singbox geoip/singbox -name "*.json" | xargs -P4 -I{} sing-box rule-set compile {}
 
       - name: Commit and Push
         run: |

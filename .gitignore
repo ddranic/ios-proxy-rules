@@ -1,4 +1,2 @@
 data/
 *.dat
-geosite/singbox/*.json
-geoip/singbox/*.json

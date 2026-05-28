@@ -1,0 +1,35 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "mdn.mozillademos.org"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "bugzilla.org",
+        "developer.allizom.org",
+        "extensionworkshop.com",
+        "firefox.com",
+        "firefoxusercontent.com",
+        "getpocket.com",
+        "mdn.allizom.net",
+        "mdn.dev",
+        "mdn.mozit.cloud",
+        "mdnplay.dev",
+        "mdnyalp.dev",
+        "mozgcp.net",
+        "mozilla.ai",
+        "mozilla.com",
+        "mozilla.community",
+        "mozilla.net",
+        "mozilla.org",
+        "mozillafoundation.org",
+        "mzl.la",
+        "seamonkey-project.org",
+        "thunderbird.net"
+      ]
+    }
+  ]
+}
