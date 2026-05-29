@@ -19,4 +19,8 @@ DOMAIN-SUFFIX,mozillafoundation.org
 DOMAIN-SUFFIX,mzl.la
 DOMAIN-SUFFIX,seamonkey-project.org
 DOMAIN-SUFFIX,thunderbird.net
+DOMAIN,ads-img.mozilla.org
+DOMAIN,ads.mozilla.org
+DOMAIN,incoming-telemetry.thunderbird.net
+DOMAIN,incoming.telemetry.mozilla.org
 DOMAIN,mdn.mozillademos.org

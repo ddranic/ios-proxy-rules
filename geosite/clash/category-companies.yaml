@@ -7538,9 +7538,11 @@ payload:
   - DOMAIN,adfstat.yandex.ru
   - DOMAIN,admob-cn.com
   - DOMAIN,adobeereg.com
+  - DOMAIN,ads-img.mozilla.org
   - DOMAIN,ads-integration.rustore.ru
   - DOMAIN,ads.dahlmessenger.com
   - DOMAIN,ads.icq.com
+  - DOMAIN,ads.mozilla.org
   - DOMAIN,ads.rustore.ru
   - DOMAIN,ads.vk.com
   - DOMAIN,ads.vk.ru
@@ -7835,6 +7837,8 @@ payload:
   - DOMAIN,inappcheck-cn.itunes-apple.com.akadns.net
   - DOMAIN,inappcheck-lb.itunes-apple.com.akadns.net
   - DOMAIN,inappcheck.itunes.apple.com
+  - DOMAIN,incoming-telemetry.thunderbird.net
+  - DOMAIN,incoming.telemetry.mozilla.org
   - DOMAIN,informer.yandex.ru
   - DOMAIN,ingest.apple-studies.com
   - DOMAIN,init-kt.apple.com
