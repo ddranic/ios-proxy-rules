@@ -7909,6 +7909,7 @@ payload:
   - DOMAIN,mesu.apple.com
   - DOMAIN,misc-assets.itunes.apple.com
   - DOMAIN,ml.cdn-apple.com
+  - DOMAIN,mozilla-ohttp.fastly-edge.com
   - DOMAIN,mtalk.google.com
   - DOMAIN,music.apple.com
   - DOMAIN,musicstatus.music.apple.com

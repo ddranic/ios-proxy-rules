@@ -27,3 +27,4 @@ DOMAIN-SUFFIX,torproject.org
 DOMAIN-SUFFIX,vivaldi.com
 DOMAIN-SUFFIX,waterfox.net
 DOMAIN-SUFFIX,zen-browser.app
+DOMAIN,mozilla-ohttp.fastly-edge.com
