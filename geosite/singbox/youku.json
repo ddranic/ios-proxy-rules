@@ -3,6 +3,7 @@
   "rules": [
     {
       "domain_suffix": [
+        "9xsecndns.cn",
         "ad.api.3g.youku.com",
         "ad.api.mobile.youku.com",
         "ad.mobile.youku.com",
@@ -24,11 +25,13 @@
         "soku.com",
         "stat.youku.com",
         "statis.api.3g.youku.com",
+        "tudou.com",
         "v6-adashx.ut.youku.com",
         "yk-ssp.ad.youku.com",
         "ykad-data.youku.com",
         "ykimg.com",
-        "youku.com"
+        "youku.com",
+        "zimgs.cn"
       ]
     }
   ]
