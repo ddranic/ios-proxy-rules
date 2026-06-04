@@ -1,5 +1,6 @@
 payload:
   - DOMAIN-SUFFIX,17roco.com
+  - DOMAIN-SUFFIX,97ting.com
   - DOMAIN-SUFFIX,acctdns.com
   - DOMAIN-SUFFIX,acctdns.net
   - DOMAIN-SUFFIX,acimg.cn
@@ -364,6 +365,7 @@ payload:
   - DOMAIN-SUFFIX,qqmail.com
   - DOMAIN-SUFFIX,qqmra.cn
   - DOMAIN-SUFFIX,qqmra.com
+  - DOMAIN-SUFFIX,qqmusic.com
   - DOMAIN-SUFFIX,qyunapp.com
   - DOMAIN-SUFFIX,qzone.com
   - DOMAIN-SUFFIX,readnovel.com
@@ -543,6 +545,7 @@ payload:
   - DOMAIN-SUFFIX,timibase.com
   - DOMAIN-SUFFIX,timmerse.com
   - DOMAIN-SUFFIX,tingbook.com
+  - DOMAIN-SUFFIX,tingmall.com
   - DOMAIN-SUFFIX,tjstats.com
   - DOMAIN-SUFFIX,tlivecdn.com
   - DOMAIN-SUFFIX,tlivemcdn.com
@@ -563,6 +566,7 @@ payload:
   - DOMAIN-SUFFIX,txyscdn.com
   - DOMAIN-SUFFIX,txyscdn.net
   - DOMAIN-SUFFIX,ugdtimg.com
+  - DOMAIN-SUFFIX,ultimatemusic.cn
   - DOMAIN-SUFFIX,um.run
   - DOMAIN-SUFFIX,uncnn.cn
   - DOMAIN-SUFFIX,vcloudstc.com
@@ -579,6 +583,7 @@ payload:
   - DOMAIN-SUFFIX,wegame.com.cn
   - DOMAIN-SUFFIX,wegamedeveloper.com
   - DOMAIN-SUFFIX,wegameplus.com
+  - DOMAIN-SUFFIX,weishi.com
   - DOMAIN-SUFFIX,weixinbridge.com
   - DOMAIN-SUFFIX,weiyun.com
   - DOMAIN-SUFFIX,werepository.com.cn
