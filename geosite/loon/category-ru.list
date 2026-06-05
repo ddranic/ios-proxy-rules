@@ -915,6 +915,7 @@ DOMAIN,ksn-url-geo.kaspersky-labs.com
 DOMAIN,ksn-url.geoksn.kaspersky.com
 DOMAIN,ksn-verdict-geo.kaspersky-labs.com
 DOMAIN,ksn-verdict.geoksn.kaspersky.com
+DOMAIN,log.strm.yandex.ru
 DOMAIN,loyalnost-adv.ozon.ru
 DOMAIN,marketing-info.wildberries.ru
 DOMAIN,marketplace-sentry.wb.ru
@@ -992,6 +993,7 @@ DOMAIN,sentry.wb.ru
 DOMAIN,sentry.x5.ru
 DOMAIN,srch-telemeter10.g.smailru.net
 DOMAIN,stacks.vk-portal.net
+DOMAIN,stats.avito.ru
 DOMAIN,stats.dahlmessenger.com
 DOMAIN,stats.dev.telega.info
 DOMAIN,stats.rustore.ru

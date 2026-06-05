@@ -5159,6 +5159,7 @@ payload:
   - DOMAIN-SUFFIX,claude.ai
   - DOMAIN-SUFFIX,claude.com
   - DOMAIN-SUFFIX,claudemcpclient.com
+  - DOMAIN-SUFFIX,claudemcpcontent.com
   - DOMAIN-SUFFIX,claudeusercontent.com
   - DOMAIN-SUFFIX,clawhub.ai
   - DOMAIN-SUFFIX,clck.ru
@@ -24052,6 +24053,7 @@ payload:
   - DOMAIN,licdn.cn.cdn20.com
   - DOMAIN,link.theplatform.com
   - DOMAIN,live-patreon-marketing.pantheonsite.io
+  - DOMAIN,log.strm.yandex.ru
   - DOMAIN,loyalnost-adv.ozon.ru
   - DOMAIN,lv.queniujq.cn
   - DOMAIN,maps.apple.com
@@ -24291,6 +24293,7 @@ payload:
   - DOMAIN,static-login.gog-statics.com
   - DOMAIN,static.gc.apple.com
   - DOMAIN,statics.teams.cdn.office.net
+  - DOMAIN,stats.avito.ru
   - DOMAIN,stats.dahlmessenger.com
   - DOMAIN,stats.dev.telega.info
   - DOMAIN,stats.rustore.ru
