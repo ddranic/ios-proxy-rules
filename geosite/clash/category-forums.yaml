@@ -99,3 +99,4 @@ payload:
   - DOMAIN-SUFFIX,xdaimages.com
   - DOMAIN-SUFFIX,xwbo.com
   - DOMAIN,bbs.boingboing.net
+  - DOMAIN,www.quora.com.cdn.cloudflare.net
