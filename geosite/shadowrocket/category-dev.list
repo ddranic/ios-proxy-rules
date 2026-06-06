@@ -44,6 +44,7 @@ DOMAIN-SUFFIX,braveux.com
 DOMAIN-SUFFIX,brew.sh
 DOMAIN-SUFFIX,buck.build
 DOMAIN-SUFFIX,buckbuild.com
+DOMAIN-SUFFIX,bugsnag.com
 DOMAIN-SUFFIX,calendarserver.org
 DOMAIN-SUFFIX,canonical.com
 DOMAIN-SUFFIX,carekit.org
@@ -121,6 +122,7 @@ DOMAIN-SUFFIX,fedorapeople.org
 DOMAIN-SUFFIX,fedoraproject.org
 DOMAIN-SUFFIX,ffmpeg.org
 DOMAIN-SUFFIX,fightforux.com
+DOMAIN-SUFFIX,filezilla-project.org
 DOMAIN-SUFFIX,firebase.com
 DOMAIN-SUFFIX,firebase.io
 DOMAIN-SUFFIX,firebaseapp.com
@@ -163,6 +165,7 @@ DOMAIN-SUFFIX,git-scm.com
 DOMAIN-SUFFIX,git.io
 DOMAIN-SUFFIX,gitbook.com
 DOMAIN-SUFFIX,gitbook.io
+DOMAIN-SUFFIX,gitgud.io
 DOMAIN-SUFFIX,github.ai
 DOMAIN-SUFFIX,github.blog
 DOMAIN-SUFFIX,github.com
@@ -292,6 +295,7 @@ DOMAIN-SUFFIX,msdn.com
 DOMAIN-SUFFIX,msinnovationchallenge.com
 DOMAIN-SUFFIX,mspairlift.com
 DOMAIN-SUFFIX,msropendata.com
+DOMAIN-SUFFIX,msys2.org
 DOMAIN-SUFFIX,myoctocat.com
 DOMAIN-SUFFIX,mysql.com
 DOMAIN-SUFFIX,mystrikingly.com
