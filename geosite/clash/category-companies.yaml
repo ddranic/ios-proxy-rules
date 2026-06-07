@@ -7704,6 +7704,7 @@ payload:
   - DOMAIN,cl1.apple.com
   - DOMAIN,cl2-cdn.origin-apple.com.akadns.net
   - DOMAIN,cl2-cn.apple.com
+  - DOMAIN,cl2.apple.com.edgekey.net.globalredir.akadns.net
   - DOMAIN,cl2.apple.com
   - DOMAIN,cl3-cdn.origin-apple.com.akadns.net
   - DOMAIN,cl3.apple.com
@@ -7849,6 +7850,7 @@ payload:
   - DOMAIN,gs-loc-cn.apple.com
   - DOMAIN,gs-loc.apple.com
   - DOMAIN,gsp10-ssl-cn.ls.apple.com
+  - DOMAIN,gsp11-cn.ls.apple.com
   - DOMAIN,gsp12-cn.ls.apple.com
   - DOMAIN,gsp13-cn.ls.apple.com
   - DOMAIN,gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net
@@ -7875,8 +7877,6 @@ payload:
   - DOMAIN,hpstore.corpmerchandise.com
   - DOMAIN,i.dell.com
   - DOMAIN,i.pki.goog
-  - DOMAIN,icloud-cdn.icloud.com.akadns.net
-  - DOMAIN,icloud.cdn-apple.com
   - DOMAIN,images-cn-8.ssl-images-amazon.com
   - DOMAIN,images-cn.ssl-images-amazon.com
   - DOMAIN,images.apple.com.edgekey.net.globalredir.akadns.net
@@ -7969,10 +7969,8 @@ payload:
   - DOMAIN,nexus.dell.com
   - DOMAIN,np-edge.itunes.apple.com
   - DOMAIN,o.pki.goog
-  - DOMAIN,ocsp-lb.apple.com.akadns.net
   - DOMAIN,ocsp.apple.com
   - DOMAIN,ocsp.pki.goog
-  - DOMAIN,ocsp2-lb.apple.com.akadns.net
   - DOMAIN,ocsp2.apple.com
   - DOMAIN,oemsoc.download.prss.microsoft.com
   - DOMAIN,officecdn-microsoft-com.akamaized.net
@@ -8006,7 +8004,6 @@ payload:
   - DOMAIN,p19.upd.kaspersky.com
   - DOMAIN,pagead-googlehosted.l.google.com
   - DOMAIN,pancake.apple.com
-  - DOMAIN,pancake.cdn-apple.com.akadns.net
   - DOMAIN,pba0.apple.com
   - DOMAIN,pd-nk.itunes.apple.com
   - DOMAIN,pd.itunes.apple.com
@@ -8050,7 +8047,6 @@ payload:
   - DOMAIN,report.ap.yandex-net.ru
   - DOMAIN,res-1.cdn.office.net
   - DOMAIN,res.cdn.office.net
-  - DOMAIN,reserve-prime.apple.com
   - DOMAIN,rink.hockeyapp.net
   - DOMAIN,rs.mail.ru
   - DOMAIN,s.mzstatic.com

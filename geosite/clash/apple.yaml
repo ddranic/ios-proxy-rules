@@ -1588,6 +1588,7 @@ payload:
   - DOMAIN,cl1.apple.com
   - DOMAIN,cl2-cdn.origin-apple.com.akadns.net
   - DOMAIN,cl2-cn.apple.com
+  - DOMAIN,cl2.apple.com.edgekey.net.globalredir.akadns.net
   - DOMAIN,cl2.apple.com
   - DOMAIN,cl3-cdn.origin-apple.com.akadns.net
   - DOMAIN,cl3.apple.com
@@ -1621,6 +1622,7 @@ payload:
   - DOMAIN,gs-loc-cn.apple.com
   - DOMAIN,gs-loc.apple.com
   - DOMAIN,gsp10-ssl-cn.ls.apple.com
+  - DOMAIN,gsp11-cn.ls.apple.com
   - DOMAIN,gsp12-cn.ls.apple.com
   - DOMAIN,gsp13-cn.ls.apple.com
   - DOMAIN,gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net
@@ -1641,8 +1643,6 @@ payload:
   - DOMAIN,guzzoni-apple-com.v.aaplimg.com
   - DOMAIN,guzzoni.apple.com
   - DOMAIN,guzzoni.smoot.apple.com
-  - DOMAIN,icloud-cdn.icloud.com.akadns.net
-  - DOMAIN,icloud.cdn-apple.com
   - DOMAIN,images.apple.com.edgekey.net.globalredir.akadns.net
   - DOMAIN,inappcheck-cn.itunes-apple.com.akadns.net
   - DOMAIN,inappcheck-lb.itunes-apple.com.akadns.net
@@ -1693,9 +1693,7 @@ payload:
   - DOMAIN,notary-submissions-prod.s3-accelerate.amazonaws.com
   - DOMAIN,notary-submissions-prod.s3.us-west-2.amazonaws.com
   - DOMAIN,np-edge.itunes.apple.com
-  - DOMAIN,ocsp-lb.apple.com.akadns.net
   - DOMAIN,ocsp.apple.com
-  - DOMAIN,ocsp2-lb.apple.com.akadns.net
   - DOMAIN,ocsp2.apple.com
   - DOMAIN,oscdn.apple.com
   - DOMAIN,oscdn.origin-apple.com.akadns.net
@@ -1703,7 +1701,6 @@ payload:
   - DOMAIN,osxapps.itunes.g.aaplimg.com
   - DOMAIN,p-events-delivery.akamaized.net
   - DOMAIN,pancake.apple.com
-  - DOMAIN,pancake.cdn-apple.com.akadns.net
   - DOMAIN,pba0.apple.com
   - DOMAIN,pd-nk.itunes.apple.com
   - DOMAIN,pd.itunes.apple.com
@@ -1713,7 +1710,6 @@ payload:
   - DOMAIN,prod-support.apple-support.akadns.net
   - DOMAIN,publicassets.cdn-apple.com
   - DOMAIN,push-apple.com.akadns.net
-  - DOMAIN,reserve-prime.apple.com
   - DOMAIN,s.mzstatic.com
   - DOMAIN,s1.mzstatic.com
   - DOMAIN,s2.mzstatic.com

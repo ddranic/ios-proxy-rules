@@ -15352,6 +15352,7 @@ DOMAIN-SUFFIX,notepad-plus-plus.org
 DOMAIN-SUFFIX,noticias-rt.com
 DOMAIN-SUFFIX,notimundo.press
 DOMAIN-SUFFIX,notion-static.com
+DOMAIN-SUFFIX,notion-status.com
 DOMAIN-SUFFIX,notion.com
 DOMAIN-SUFFIX,notion.new
 DOMAIN-SUFFIX,notion.site
@@ -23835,6 +23836,7 @@ DOMAIN,cl1-cdn.origin-apple.com.akadns.net
 DOMAIN,cl1.apple.com
 DOMAIN,cl2-cdn.origin-apple.com.akadns.net
 DOMAIN,cl2-cn.apple.com
+DOMAIN,cl2.apple.com.edgekey.net.globalredir.akadns.net
 DOMAIN,cl2.apple.com
 DOMAIN,cl3-cdn.origin-apple.com.akadns.net
 DOMAIN,cl3.apple.com
@@ -23993,6 +23995,7 @@ DOMAIN,googlevads-cn.com
 DOMAIN,gs-loc-cn.apple.com
 DOMAIN,gs-loc.apple.com
 DOMAIN,gsp10-ssl-cn.ls.apple.com
+DOMAIN,gsp11-cn.ls.apple.com
 DOMAIN,gsp12-cn.ls.apple.com
 DOMAIN,gsp13-cn.ls.apple.com
 DOMAIN,gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net
@@ -24022,8 +24025,6 @@ DOMAIN,hub.slarker.me
 DOMAIN,i.dell.com
 DOMAIN,i.jeded.com
 DOMAIN,i.pki.goog
-DOMAIN,icloud-cdn.icloud.com.akadns.net
-DOMAIN,icloud.cdn-apple.com
 DOMAIN,images-cn-8.ssl-images-amazon.com
 DOMAIN,images-cn.ssl-images-amazon.com
 DOMAIN,images.apple.com.edgekey.net.globalredir.akadns.net
@@ -24156,10 +24157,8 @@ DOMAIN,ntppool2.time.nl
 DOMAIN,o.pki.goog
 DOMAIN,o33249.ingest.sentry.io
 DOMAIN,o4504926511693824.ingest.sentry.io
-DOMAIN,ocsp-lb.apple.com.akadns.net
 DOMAIN,ocsp.apple.com
 DOMAIN,ocsp.pki.goog
-DOMAIN,ocsp2-lb.apple.com.akadns.net
 DOMAIN,ocsp2.apple.com
 DOMAIN,oemsoc.download.prss.microsoft.com
 DOMAIN,officecdn.microsoft.com
@@ -24192,7 +24191,6 @@ DOMAIN,p18.upd.kaspersky.com
 DOMAIN,p19.upd.kaspersky.com
 DOMAIN,pagead-googlehosted.l.google.com
 DOMAIN,pancake.apple.com
-DOMAIN,pancake.cdn-apple.com.akadns.net
 DOMAIN,pba0.apple.com
 DOMAIN,pd-nk.itunes.apple.com
 DOMAIN,pd.itunes.apple.com
@@ -24239,7 +24237,6 @@ DOMAIN,reklama.mail.ru
 DOMAIN,report.ap.yandex-net.ru
 DOMAIN,res-1.cdn.office.net
 DOMAIN,res.cdn.office.net
-DOMAIN,reserve-prime.apple.com
 DOMAIN,rink.hockeyapp.net
 DOMAIN,roovza-launches.appsflyersdk.com
 DOMAIN,roovza.inapps.appsflyersdk.com
