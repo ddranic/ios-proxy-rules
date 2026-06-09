@@ -15591,6 +15591,7 @@ payload:
   - DOMAIN-SUFFIX,nxta.org
   - DOMAIN-SUFFIX,nxtdig.com.hk
   - DOMAIN-SUFFIX,nxtdig.com.tw
+  - DOMAIN-SUFFIX,nxtv.jp
   - DOMAIN-SUFFIX,nyaa.net
   - DOMAIN-SUFFIX,nyaa.si
   - DOMAIN-SUFFIX,nyahentai.re
@@ -20768,6 +20769,9 @@ payload:
   - DOMAIN-SUFFIX,uncensoredsexparties.com
   - DOMAIN-SUFFIX,underhentai.net
   - DOMAIN-SUFFIX,underlords.com
+  - DOMAIN-SUFFIX,unext-info.jp
+  - DOMAIN-SUFFIX,unext.co.jp
+  - DOMAIN-SUFFIX,unext.jp
   - DOMAIN-SUFFIX,unfiltered.news
   - DOMAIN-SUFFIX,unidraw.io
   - DOMAIN-SUFFIX,uninhibitedcomix.com
