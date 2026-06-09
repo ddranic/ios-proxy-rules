@@ -2212,6 +2212,7 @@ payload:
   - DOMAIN-SUFFIX,gdrc.com
   - DOMAIN-SUFFIX,gdt.qq.com
   - DOMAIN-SUFFIX,gdtimg.com
+  - DOMAIN-SUFFIX,geekbang.org
   - DOMAIN-SUFFIX,geekpark.net
   - DOMAIN-SUFFIX,geektool.top
   - DOMAIN-SUFFIX,geely.com
@@ -2733,8 +2734,6 @@ payload:
   - DOMAIN-SUFFIX,indienova.com
   - DOMAIN-SUFFIX,infini-fantasy.com
   - DOMAIN-SUFFIX,infinitynewtab.com
-  - DOMAIN-SUFFIX,infoq.com
-  - DOMAIN-SUFFIX,infoqstatic.com
   - DOMAIN-SUFFIX,inftab.com
   - DOMAIN-SUFFIX,inkuai.com
   - DOMAIN-SUFFIX,inkwai.com
@@ -2747,7 +2746,6 @@ payload:
   - DOMAIN-SUFFIX,intsig.net
   - DOMAIN-SUFFIX,ioppo.net
   - DOMAIN-SUFFIX,iotronic.tech
-  - DOMAIN-SUFFIX,ip-cdn.com
   - DOMAIN-SUFFIX,ip138.com
   - DOMAIN-SUFFIX,ipanda.com
   - DOMAIN-SUFFIX,ipanda.net
