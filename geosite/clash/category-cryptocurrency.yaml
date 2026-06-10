@@ -73,6 +73,7 @@ payload:
   - DOMAIN-SUFFIX,coinalyze.net
   - DOMAIN-SUFFIX,coinbase.com
   - DOMAIN-SUFFIX,coindesk.com
+  - DOMAIN-SUFFIX,coingate.com
   - DOMAIN-SUFFIX,coingecko.com
   - DOMAIN-SUFFIX,coinglass.com
   - DOMAIN-SUFFIX,coinmap.org

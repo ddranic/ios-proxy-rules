@@ -85,6 +85,9 @@ payload:
   - DOMAIN-SUFFIX,devimages-cdn.apple.com
   - DOMAIN-SUFFIX,devopsassessment.net
   - DOMAIN-SUFFIX,devstreaming-cdn.apple.com
+  - DOMAIN-SUFFIX,discourse-cdn.com
+  - DOMAIN-SUFFIX,discourse.group
+  - DOMAIN-SUFFIX,discourse.org
   - DOMAIN-SUFFIX,docker.com
   - DOMAIN-SUFFIX,docker.io
   - DOMAIN-SUFFIX,dockerstatic.com
@@ -163,6 +166,7 @@ payload:
   - DOMAIN-SUFFIX,getzola.org
   - DOMAIN-SUFFIX,gh.io
   - DOMAIN-SUFFIX,ghcr.io
+  - DOMAIN-SUFFIX,ghe.com
   - DOMAIN-SUFFIX,git-scm.com
   - DOMAIN-SUFFIX,git.io
   - DOMAIN-SUFFIX,gitbook.com
