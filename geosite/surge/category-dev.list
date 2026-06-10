@@ -94,6 +94,7 @@ DOMAIN-SUFFIX,download-cdn.jetbrains.com.cn
 DOMAIN-SUFFIX,draftjs.org
 DOMAIN-SUFFIX,ecr.aws
 DOMAIN-SUFFIX,electronjs.org
+DOMAIN-SUFFIX,elegantthemes.com
 DOMAIN-SUFFIX,elementary.io
 DOMAIN-SUFFIX,elixir-lang.org
 DOMAIN-SUFFIX,elrepo.org
@@ -207,6 +208,7 @@ DOMAIN-SUFFIX,haskellstack.org
 DOMAIN-SUFFIX,hex.pm
 DOMAIN-SUFFIX,hexdocs.pm
 DOMAIN-SUFFIX,hhvm.com
+DOMAIN-SUFFIX,hivepress.io
 DOMAIN-SUFFIX,hyperscan.io
 DOMAIN-SUFFIX,iads.unity3d.com
 DOMAIN-SUFFIX,imageglass.org
@@ -290,6 +292,7 @@ DOMAIN-SUFFIX,modperl.pl
 DOMAIN-SUFFIX,mongodb.com
 DOMAIN-SUFFIX,mongodb.org
 DOMAIN-SUFFIX,mono-project.com
+DOMAIN-SUFFIX,motopress.com
 DOMAIN-SUFFIX,mpv.io
 DOMAIN-SUFFIX,msdn.com
 DOMAIN-SUFFIX,msinnovationchallenge.com
@@ -483,6 +486,7 @@ DOMAIN-SUFFIX,vfsforgit.com
 DOMAIN-SUFFIX,vfsforgit.org
 DOMAIN-SUFFIX,videojs.com
 DOMAIN-SUFFIX,videolan.org
+DOMAIN-SUFFIX,videopress.com
 DOMAIN-SUFFIX,vim.org
 DOMAIN-SUFFIX,visualstudio-staging.com
 DOMAIN-SUFFIX,visualstudio.co
@@ -494,6 +498,7 @@ DOMAIN-SUFFIX,vsassets.io
 DOMAIN-SUFFIX,vscode-cdn.net
 DOMAIN-SUFFIX,vscode-unpkg.net
 DOMAIN-SUFFIX,vscode.dev
+DOMAIN-SUFFIX,w.org
 DOMAIN-SUFFIX,wapm.io
 DOMAIN-SUFFIX,wasmer.io
 DOMAIN-SUFFIX,webflow.com
@@ -502,7 +507,16 @@ DOMAIN-SUFFIX,webkitgtk.org
 DOMAIN-SUFFIX,weblate.org
 DOMAIN-SUFFIX,webobjects.com
 DOMAIN-SUFFIX,wireshark.org
+DOMAIN-SUFFIX,wordcamp.org
+DOMAIN-SUFFIX,wordpress.com
+DOMAIN-SUFFIX,wordpress.net
+DOMAIN-SUFFIX,wordpress.org
+DOMAIN-SUFFIX,wordpress.tv
+DOMAIN-SUFFIX,wp-themes.com
+DOMAIN-SUFFIX,wp.com
 DOMAIN-SUFFIX,wpewebkit.org
+DOMAIN-SUFFIX,wpmailsmtp.com
+DOMAIN-SUFFIX,wpvip.com
 DOMAIN-SUFFIX,x.org
 DOMAIN-SUFFIX,xamarin.com
 DOMAIN-SUFFIX,xfce.org
