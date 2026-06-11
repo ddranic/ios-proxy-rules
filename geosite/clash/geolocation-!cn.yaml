@@ -207,6 +207,7 @@ payload:
   - DOMAIN-SUFFIX,24hjav.com
   - DOMAIN-SUFFIX,24porn.com
   - DOMAIN-SUFFIX,24porn.pro
+  - DOMAIN-SUFFIX,265.com
   - DOMAIN-SUFFIX,265sdwe3.com
   - DOMAIN-SUFFIX,2789av.com
   - DOMAIN-SUFFIX,27mmwmmw.top
@@ -1629,6 +1630,7 @@ payload:
   - DOMAIN-SUFFIX,analtime.org
   - DOMAIN-SUFFIX,analvids.com
   - DOMAIN-SUFFIX,analytics-alv.google.com
+  - DOMAIN-SUFFIX,analytics.cloud.unity3d.com
   - DOMAIN-SUFFIX,analytics.facebook.com
   - DOMAIN-SUFFIX,analytics.tiktok.com
   - DOMAIN-SUFFIX,analytics.vk.com
@@ -1738,6 +1740,7 @@ payload:
   - DOMAIN-SUFFIX,api-extractor.com
   - DOMAIN-SUFFIX,api.ai
   - DOMAIN-SUFFIX,api.news
+  - DOMAIN-SUFFIX,api2.amplitude.com
   - DOMAIN-SUFFIX,apibay.org
   - DOMAIN-SUFFIX,apigee.com
   - DOMAIN-SUFFIX,apihub-internal.cn
@@ -4843,6 +4846,7 @@ payload:
   - DOMAIN-SUFFIX,cdnvideohub.com
   - DOMAIN-SUFFIX,cdnxxx-proxy.co
   - DOMAIN-SUFFIX,cdnxxx-proxy.xyz
+  - DOMAIN-SUFFIX,cdp.cloud.unity3d.com
   - DOMAIN-SUFFIX,cebay.com
   - DOMAIN-SUFFIX,cegid-cloud.cn
   - DOMAIN-SUFFIX,ceicdata.com
@@ -5431,6 +5435,7 @@ payload:
   - DOMAIN-SUFFIX,conair.me
   - DOMAIN-SUFFIX,conan.xxx
   - DOMAIN-SUFFIX,conda.io
+  - DOMAIN-SUFFIX,config.uca.cloud.unity3d.com
   - DOMAIN-SUFFIX,connaissancesfinancierespratiques.ca
   - DOMAIN-SUFFIX,connect-in-canada.com
   - DOMAIN-SUFFIX,connectcommerce.cn
@@ -5535,6 +5540,7 @@ payload:
   - DOMAIN-SUFFIX,crabporn.com
   - DOMAIN-SUFFIX,craigslist.org
   - DOMAIN-SUFFIX,crankplayer.com
+  - DOMAIN-SUFFIX,crashlytics.com
   - DOMAIN-SUFFIX,crates.io
   - DOMAIN-SUFFIX,crazy-amateurs.com
   - DOMAIN-SUFFIX,crazyav.xyz
@@ -15760,6 +15766,7 @@ payload:
   - DOMAIN-SUFFIX,okx-dns.com
   - DOMAIN-SUFFIX,okx-dns1.com
   - DOMAIN-SUFFIX,okx-dns2.com
+  - DOMAIN-SUFFIX,okx.ac
   - DOMAIN-SUFFIX,okx.cab
   - DOMAIN-SUFFIX,okx.com
   - DOMAIN-SUFFIX,older-women-movies.com
@@ -16427,6 +16434,8 @@ payload:
   - DOMAIN-SUFFIX,peopledreamfunding.com
   - DOMAIN-SUFFIX,peoplenews.tw
   - DOMAIN-SUFFIX,pepabo.com
+  - DOMAIN-SUFFIX,perf-events.cloud.unity3d.com
+  - DOMAIN-SUFFIX,perf.cloud.unity3d.com
   - DOMAIN-SUFFIX,perfectgirls.net
   - DOMAIN-SUFFIX,perfectgonzo.com
   - DOMAIN-SUFFIX,perfectkickz.net
@@ -17146,6 +17155,7 @@ payload:
   - DOMAIN-SUFFIX,practicalmoneyskills.jp
   - DOMAIN-SUFFIX,prastitutki.ru
   - DOMAIN-SUFFIX,prcm.jp
+  - DOMAIN-SUFFIX,prd-lender.cdp.internal.unity3d.com
   - DOMAIN-SUFFIX,pre-bmwgroup.jobs
   - DOMAIN-SUFFIX,predb.me
   - DOMAIN-SUFFIX,predictivetechnologies.com
@@ -23729,7 +23739,6 @@ payload:
   - DOMAIN,1l-hit.mail.ru
   - DOMAIN,1l-hit.vkplay.ru
   - DOMAIN,1password.drift.click
-  - DOMAIN,265.com
   - DOMAIN,2mdn-cn.net
   - DOMAIN,2mdn.net
   - DOMAIN,a1.mzstatic.com
@@ -24487,6 +24496,7 @@ payload:
   - DOMAIN,www.gstatic.com
   - DOMAIN,www.microsoft.com
   - DOMAIN,www.pxcc.com
+  - DOMAIN,www.recaptcha-cn.net
   - DOMAIN,www.recaptcha.net
   - DOMAIN,www.support.apple.com
   - DOMAIN,www4-static.gog-statics.com

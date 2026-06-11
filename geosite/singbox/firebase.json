@@ -3,6 +3,7 @@
   "rules": [
     {
       "domain": [
+        "crashlyticsreports-pa.googleapis.com",
         "firebase-settings.crashlytics.com",
         "firebase.google.com",
         "firebase.googleapis.com",
@@ -15,11 +16,13 @@
         "firebaselogging-pa.googleapis.com",
         "firebaselogging.googleapis.com",
         "firebaseperusertopics-pa.googleapis.com",
-        "firebaseremoteconfig.googleapis.com"
+        "firebaseremoteconfig.googleapis.com",
+        "update.crashlytics.com"
       ]
     },
     {
       "domain_suffix": [
+        "crashlytics.com",
         "firebase.com",
         "firebase.io",
         "firebaseapp.com",

@@ -2,6 +2,7 @@ payload:
   - DOMAIN-SUFFIX,0emm.com
   - DOMAIN-SUFFIX,1e100.net
   - DOMAIN-SUFFIX,1ucrs.com
+  - DOMAIN-SUFFIX,265.com
   - DOMAIN-SUFFIX,2mdn-cn.net
   - DOMAIN-SUFFIX,2mdn.net
   - DOMAIN-SUFFIX,466453.com
@@ -156,6 +157,7 @@ payload:
   - DOMAIN-SUFFIX,coova.com
   - DOMAIN-SUFFIX,coova.net
   - DOMAIN-SUFFIX,coova.org
+  - DOMAIN-SUFFIX,crashlytics.com
   - DOMAIN-SUFFIX,crossmediapanel.com
   - DOMAIN-SUFFIX,crr.com
   - DOMAIN-SUFFIX,cs4hs.com
@@ -842,7 +844,6 @@ payload:
   - DOMAIN-SUFFIX,yt.be
   - DOMAIN-SUFFIX,ytimg.com
   - DOMAIN-SUFFIX,zukunftswerkstatt.de
-  - DOMAIN,265.com
   - DOMAIN,2mdn-cn.net
   - DOMAIN,2mdn.net
   - DOMAIN,admob-cn.com
@@ -964,6 +965,7 @@ payload:
   - DOMAIN,www.destinationurl.com
   - DOMAIN,www.gstatic.com
   - DOMAIN,www.pxcc.com
+  - DOMAIN,www.recaptcha-cn.net
   - DOMAIN,www.recaptcha.net
   - DOMAIN-REGEX,^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com$
   - DOMAIN-REGEX,^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$
