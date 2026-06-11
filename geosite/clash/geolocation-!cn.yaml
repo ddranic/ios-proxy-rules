@@ -6517,6 +6517,7 @@ payload:
   - DOMAIN-SUFFIX,doseofporn.com
   - DOMAIN-SUFFIX,dot-mac.de
   - DOMAIN-SUFFIX,dot.net
+  - DOMAIN-SUFFIX,dota2.com
   - DOMAIN-SUFFIX,dota2.wmsj.cn
   - DOMAIN-SUFFIX,dotcernpilot.info
   - DOMAIN-SUFFIX,dotdeb.org
@@ -12816,6 +12817,8 @@ payload:
   - DOMAIN-SUFFIX,livehdcams.com
   - DOMAIN-SUFFIX,livejasmin.com
   - DOMAIN-SUFFIX,livejasminbabes.net
+  - DOMAIN-SUFFIX,livejournal.com
+  - DOMAIN-SUFFIX,livejournal.net
   - DOMAIN-SUFFIX,livemodels.co
   - DOMAIN-SUFFIX,liveperson.net
   - DOMAIN-SUFFIX,livephotos.cn
@@ -20915,6 +20918,7 @@ payload:
   - DOMAIN-SUFFIX,v-av.com
   - DOMAIN-SUFFIX,v-has.com
   - DOMAIN-SUFFIX,v.gd
+  - DOMAIN-SUFFIX,v.ps
   - DOMAIN-SUFFIX,v2ex.com
   - DOMAIN-SUFFIX,v2fly.org
   - DOMAIN-SUFFIX,v2ph.com
@@ -20939,6 +20943,7 @@ payload:
   - DOMAIN-SUFFIX,value-domain.com
   - DOMAIN-SUFFIX,value-server.com
   - DOMAIN-SUFFIX,valuegb.com
+  - DOMAIN-SUFFIX,valve.net
   - DOMAIN-SUFFIX,valvesoftware.com
   - DOMAIN-SUFFIX,vamo.com
   - DOMAIN-SUFFIX,vamzakaz.ru
@@ -21771,6 +21776,7 @@ payload:
   - DOMAIN-SUFFIX,vpornvideos.com
   - DOMAIN-SUFFIX,vpro.com
   - DOMAIN-SUFFIX,vpro.net
+  - DOMAIN-SUFFIX,vps.hosting
   - DOMAIN-SUFFIX,vrbgay.com
   - DOMAIN-SUFFIX,vrcams.io
   - DOMAIN-SUFFIX,vrcdn.cloud
@@ -22749,6 +22755,16 @@ payload:
   - DOMAIN-SUFFIX,xsz-av.com
   - DOMAIN-SUFFIX,xtapes.to
   - DOMAIN-SUFFIX,xtegvk.xyz
+  - DOMAIN-SUFFIX,xtom.au
+  - DOMAIN-SUFFIX,xtom.com
+  - DOMAIN-SUFFIX,xtom.de
+  - DOMAIN-SUFFIX,xtom.ee
+  - DOMAIN-SUFFIX,xtom.hk
+  - DOMAIN-SUFFIX,xtom.jp
+  - DOMAIN-SUFFIX,xtom.nl
+  - DOMAIN-SUFFIX,xtom.sg
+  - DOMAIN-SUFFIX,xtom.social
+  - DOMAIN-SUFFIX,xtom.us
   - DOMAIN-SUFFIX,xtracloud.cn
   - DOMAIN-SUFFIX,xtracloud.net
   - DOMAIN-SUFFIX,xtube.com

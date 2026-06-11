@@ -6677,6 +6677,7 @@ payload:
   - DOMAIN-SUFFIX,uwn.com
   - DOMAIN-SUFFIX,uwpcommunitytoolkit.com
   - DOMAIN-SUFFIX,v-has.com
+  - DOMAIN-SUFFIX,v.ps
   - DOMAIN-SUFFIX,v8.dev
   - DOMAIN-SUFFIX,v8project.org
   - DOMAIN-SUFFIX,vagrantcloud.com
@@ -6865,6 +6866,7 @@ payload:
   - DOMAIN-SUFFIX,votolia.com
   - DOMAIN-SUFFIX,vpro.com
   - DOMAIN-SUFFIX,vpro.net
+  - DOMAIN-SUFFIX,vps.hosting
   - DOMAIN-SUFFIX,vred-essentials.com
   - DOMAIN-SUFFIX,vredessentials.com
   - DOMAIN-SUFFIX,vredprofessional.com
@@ -7114,6 +7116,16 @@ payload:
   - DOMAIN-SUFFIX,xplr.co
   - DOMAIN-SUFFIX,xrea.com
   - DOMAIN-SUFFIX,xscale.com
+  - DOMAIN-SUFFIX,xtom.au
+  - DOMAIN-SUFFIX,xtom.com
+  - DOMAIN-SUFFIX,xtom.de
+  - DOMAIN-SUFFIX,xtom.ee
+  - DOMAIN-SUFFIX,xtom.hk
+  - DOMAIN-SUFFIX,xtom.jp
+  - DOMAIN-SUFFIX,xtom.nl
+  - DOMAIN-SUFFIX,xtom.sg
+  - DOMAIN-SUFFIX,xtom.social
+  - DOMAIN-SUFFIX,xtom.us
   - DOMAIN-SUFFIX,xtracloud.cn
   - DOMAIN-SUFFIX,xtracloud.net
   - DOMAIN-SUFFIX,xuite.net
