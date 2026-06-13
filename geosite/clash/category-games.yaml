@@ -53,6 +53,7 @@ payload:
   - DOMAIN-SUFFIX,acesofthunder.net
   - DOMAIN-SUFFIX,activematter.game
   - DOMAIN-SUFFIX,aki-game.com
+  - DOMAIN-SUFFIX,aki-game2.com
   - DOMAIN-SUFFIX,aligames.com
   - DOMAIN-SUFFIX,amiibo.com
   - DOMAIN-SUFFIX,anthemgame.com
@@ -359,8 +360,11 @@ payload:
   - DOMAIN-SUFFIX,konamisportsclub.jp
   - DOMAIN-SUFFIX,konamistyle.jp
   - DOMAIN-SUFFIX,kraftonde.com
+  - DOMAIN-SUFFIX,kurobbs.com
+  - DOMAIN-SUFFIX,kurogame.com
+  - DOMAIN-SUFFIX,kurogame.xyz
+  - DOMAIN-SUFFIX,kurogames-ads.com
   - DOMAIN-SUFFIX,kurogames.com
-  - DOMAIN-SUFFIX,kurogames.net
   - DOMAIN-SUFFIX,kyurem.com
   - DOMAIN-SUFFIX,labycore.cn
   - DOMAIN-SUFFIX,langrenclub.com
@@ -901,6 +905,7 @@ payload:
   - DOMAIN-SUFFIX,wotblitz.com
   - DOMAIN-SUFFIX,wowsblitz.com
   - DOMAIN-SUFFIX,wtmobile.com
+  - DOMAIN-SUFFIX,wutheringwaves.cn
   - DOMAIN-SUFFIX,xbox
   - DOMAIN-SUFFIX,xbox.co
   - DOMAIN-SUFFIX,xbox.com
@@ -1027,6 +1032,7 @@ payload:
   - DOMAIN,steampipe-partner.akamaized.net
   - DOMAIN,steampipe.akamaized.net
   - DOMAIN,steamstore-a.akamaihd.net
+  - DOMAIN,steamugcquincy.blob.core.windows.net
   - DOMAIN,steamusercontent-a.akamaihd.net
   - DOMAIN,steamuserimages-a.akamaihd.net
   - DOMAIN,steamvideo-a.akamaihd.net

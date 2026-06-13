@@ -513,6 +513,7 @@ payload:
   - DOMAIN-SUFFIX,aizhan.com
   - DOMAIN-SUFFIX,ajzq.com
   - DOMAIN-SUFFIX,aki-game.com
+  - DOMAIN-SUFFIX,aki-game2.com
   - DOMAIN-SUFFIX,akspeedy.com
   - DOMAIN-SUFFIX,aldwx.com
   - DOMAIN-SUFFIX,ali-api-test.net
@@ -590,6 +591,7 @@ payload:
   - DOMAIN-SUFFIX,allawnfs.com
   - DOMAIN-SUFFIX,allawno.com
   - DOMAIN-SUFFIX,allawntech.com
+  - DOMAIN-SUFFIX,allday.work
   - DOMAIN-SUFFIX,allhistory.com
   - DOMAIN-SUFFIX,alloyteam.com
   - DOMAIN-SUFFIX,allyes.com
@@ -1076,6 +1078,7 @@ payload:
   - DOMAIN-SUFFIX,camcard.com
   - DOMAIN-SUFFIX,camscanner.com
   - DOMAIN-SUFFIX,cang.com
+  - DOMAIN-SUFFIX,cangpeng.com
   - DOMAIN-SUFFIX,cankaoxiaoxi.com
   - DOMAIN-SUFFIX,capitalonline.net
   - DOMAIN-SUFFIX,cardbaobao.com
@@ -1937,6 +1940,7 @@ payload:
   - DOMAIN-SUFFIX,eolink.com
   - DOMAIN-SUFFIX,er07.com
   - DOMAIN-SUFFIX,erji.net
+  - DOMAIN-SUFFIX,erp198.com
   - DOMAIN-SUFFIX,erp321.com
   - DOMAIN-SUFFIX,erp321.net
   - DOMAIN-SUFFIX,ersjk.com
@@ -3217,8 +3221,11 @@ payload:
   - DOMAIN-SUFFIX,kunlunvi.com
   - DOMAIN-SUFFIX,kunlunwe.com
   - DOMAIN-SUFFIX,kuqin.com
+  - DOMAIN-SUFFIX,kurobbs.com
+  - DOMAIN-SUFFIX,kurogame.com
+  - DOMAIN-SUFFIX,kurogame.xyz
+  - DOMAIN-SUFFIX,kurogames-ads.com
   - DOMAIN-SUFFIX,kurogames.com
-  - DOMAIN-SUFFIX,kurogames.net
   - DOMAIN-SUFFIX,kuyin123.com
   - DOMAIN-SUFFIX,kuyinxiu.com
   - DOMAIN-SUFFIX,kuyinyun.com
