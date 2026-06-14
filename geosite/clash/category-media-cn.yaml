@@ -59,6 +59,7 @@ payload:
   - DOMAIN-SUFFIX,chinanews.com.cn
   - DOMAIN-SUFFIX,chinaott.com
   - DOMAIN-SUFFIX,chinaqw.com
+  - DOMAIN-SUFFIX,chinastarmarket.cn
   - DOMAIN-SUFFIX,citv.net.cn
   - DOMAIN-SUFFIX,ckxx.net
   - DOMAIN-SUFFIX,cls.cn
@@ -119,9 +120,11 @@ payload:
   - DOMAIN-SUFFIX,gjgbdszt.cn
   - DOMAIN-SUFFIX,gjgbdszt.com.cn
   - DOMAIN-SUFFIX,gjgbdszt.net.cn
-  - DOMAIN-SUFFIX,gmw.com
+  - DOMAIN-SUFFIX,gmdaily.cn
+  - DOMAIN-SUFFIX,gmw.cn
   - DOMAIN-SUFFIX,go2map.com
   - DOMAIN-SUFFIX,guancha.cn
+  - DOMAIN-SUFFIX,guangmingdaily.cn
   - DOMAIN-SUFFIX,guigu.org
   - DOMAIN-SUFFIX,gw.com.cn
   - DOMAIN-SUFFIX,gxtv.cn
@@ -176,6 +179,7 @@ payload:
   - DOMAIN-SUFFIX,jiemian.com.cn
   - DOMAIN-SUFFIX,jin10.com
   - DOMAIN-SUFFIX,jinantimes.com.cn
+  - DOMAIN-SUFFIX,jingpt.com
   - DOMAIN-SUFFIX,jiqizhixin.com
   - DOMAIN-SUFFIX,jrj.com.cn
   - DOMAIN-SUFFIX,jrjimg.cn
@@ -194,6 +198,7 @@ payload:
   - DOMAIN-SUFFIX,landian.vip
   - DOMAIN-SUFFIX,landian.xyz
   - DOMAIN-SUFFIX,landiannews.com
+  - DOMAIN-SUFFIX,lanjinger.com
   - DOMAIN-SUFFIX,lapin365.com
   - DOMAIN-SUFFIX,latepost.com
   - DOMAIN-SUFFIX,leikeji.com
@@ -207,7 +212,9 @@ payload:
   - DOMAIN-SUFFIX,miercn.com
   - DOMAIN-SUFFIX,minapp.com
   - DOMAIN-SUFFIX,mnw.cn
+  - DOMAIN-SUFFIX,moer.cn
   - DOMAIN-SUFFIX,mydrivers.com
+  - DOMAIN-SUFFIX,myzaker.com
   - DOMAIN-SUFFIX,nanyuenews.com
   - DOMAIN-SUFFIX,nbd.com.cn
   - DOMAIN-SUFFIX,neweekly.com.cn

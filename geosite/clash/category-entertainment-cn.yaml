@@ -2,6 +2,7 @@ payload:
   - DOMAIN-SUFFIX,11222.cn
   - DOMAIN-SUFFIX,13a.com
   - DOMAIN-SUFFIX,17173.com
+  - DOMAIN-SUFFIX,17173cdn.com
   - DOMAIN-SUFFIX,172mix.com
   - DOMAIN-SUFFIX,17k.com
   - DOMAIN-SUFFIX,17roco.com
@@ -10,6 +11,10 @@ payload:
   - DOMAIN-SUFFIX,1xhh.cn
   - DOMAIN-SUFFIX,3304399.com
   - DOMAIN-SUFFIX,3304399.net
+  - DOMAIN-SUFFIX,37.com
+  - DOMAIN-SUFFIX,37.com.cn
+  - DOMAIN-SUFFIX,37wan.net
+  - DOMAIN-SUFFIX,37wanimg.com
   - DOMAIN-SUFFIX,3839.com
   - DOMAIN-SUFFIX,3839apk.com
   - DOMAIN-SUFFIX,3839app.com
@@ -595,6 +600,7 @@ payload:
   - DOMAIN-SUFFIX,phira.cn
   - DOMAIN-SUFFIX,pipi.cn
   - DOMAIN-SUFFIX,pl.youku.com
+  - DOMAIN-SUFFIX,playcool.com
   - DOMAIN-SUFFIX,podcast.xyz
   - DOMAIN-SUFFIX,policy.video.iqiyi.com
   - DOMAIN-SUFFIX,ppkankan01.com
@@ -657,6 +663,7 @@ payload:
   - DOMAIN-SUFFIX,seasungames.com
   - DOMAIN-SUFFIX,seasunwbl.com
   - DOMAIN-SUFFIX,sfacg.com
+  - DOMAIN-SUFFIX,sgamer.com
   - DOMAIN-SUFFIX,shengqugames.com
   - DOMAIN-SUFFIX,shoutanjjj.com
   - DOMAIN-SUFFIX,shuhai.com

@@ -9,6 +9,10 @@ payload:
   - DOMAIN-SUFFIX,2kweb.online
   - DOMAIN-SUFFIX,3304399.com
   - DOMAIN-SUFFIX,3304399.net
+  - DOMAIN-SUFFIX,37.com
+  - DOMAIN-SUFFIX,37.com.cn
+  - DOMAIN-SUFFIX,37wan.net
+  - DOMAIN-SUFFIX,37wanimg.com
   - DOMAIN-SUFFIX,3839.com
   - DOMAIN-SUFFIX,3839apk.com
   - DOMAIN-SUFFIX,3839app.com
@@ -573,6 +577,7 @@ payload:
   - DOMAIN-SUFFIX,playapex.com
   - DOMAIN-SUFFIX,playartifact.com
   - DOMAIN-SUFFIX,playbattlegrounds.com
+  - DOMAIN-SUFFIX,playcool.com
   - DOMAIN-SUFFIX,playhearthstone.com
   - DOMAIN-SUFFIX,playnintendo.com
   - DOMAIN-SUFFIX,playoverwatch.com
