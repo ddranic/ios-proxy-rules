@@ -61,9 +61,12 @@ payload:
   - DOMAIN-SUFFIX,brawlstars.cn
   - DOMAIN-SUFFIX,buke999.com
   - DOMAIN-SUFFIX,bx1k.com
+  - DOMAIN-SUFFIX,cbjq.com
   - DOMAIN-SUFFIX,cdncl.net
+  - DOMAIN-SUFFIX,changyou.com
   - DOMAIN-SUFFIX,codm.com
   - DOMAIN-SUFFIX,cowlevel.net
+  - DOMAIN-SUFFIX,cy.com
   - DOMAIN-SUFFIX,dobest.com
   - DOMAIN-SUFFIX,edu4399.com
   - DOMAIN-SUFFIX,feihuo.com
@@ -172,6 +175,9 @@ payload:
   - DOMAIN-SUFFIX,scid.cn
   - DOMAIN-SUFFIX,scsentry.cn
   - DOMAIN-SUFFIX,sdo.com
+  - DOMAIN-SUFFIX,seasungames.cn
+  - DOMAIN-SUFFIX,seasungames.com
+  - DOMAIN-SUFFIX,seasunwbl.com
   - DOMAIN-SUFFIX,shengqugames.com
   - DOMAIN-SUFFIX,shyxhy.com
   - DOMAIN-SUFFIX,skydweller.cn
@@ -188,6 +194,7 @@ payload:
   - DOMAIN-SUFFIX,tcfmglobal.com
   - DOMAIN-SUFFIX,tencent-gcloud.com
   - DOMAIN-SUFFIX,tencentstart.com
+  - DOMAIN-SUFFIX,testplus.cn
   - DOMAIN-SUFFIX,texasholdemcup.cn
   - DOMAIN-SUFFIX,texasholdemcup.com
   - DOMAIN-SUFFIX,texasholdemcup.net
@@ -223,7 +230,10 @@ payload:
   - DOMAIN-SUFFIX,xhlsgs.com
   - DOMAIN-SUFFIX,xindong.com
   - DOMAIN-SUFFIX,xinwuji.com
+  - DOMAIN-SUFFIX,xishanju.com
   - DOMAIN-SUFFIX,xn--owtw8cc49ajfl.cn
+  - DOMAIN-SUFFIX,xoyo.com
+  - DOMAIN-SUFFIX,xoyocdn.com
   - DOMAIN-SUFFIX,ycgame.com
   - DOMAIN-SUFFIX,yingxiong.com
   - DOMAIN-SUFFIX,yokaverse.com
