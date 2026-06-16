@@ -74,6 +74,7 @@ payload:
   - DOMAIN-SUFFIX,beacon.cdn.qq.com
   - DOMAIN-SUFFIX,beacon.qq.com
   - DOMAIN-SUFFIX,beaconcdn.qq.com
+  - DOMAIN-SUFFIX,binglianhuajianzhan.com
   - DOMAIN-SUFFIX,bkapigw.com
   - DOMAIN-SUFFIX,bkapps.com
   - DOMAIN-SUFFIX,bkclouds.cc
@@ -204,8 +205,11 @@ payload:
   - DOMAIN-SUFFIX,gdt.qq.com
   - DOMAIN-SUFFIX,gdtimg.com
   - DOMAIN-SUFFIX,ger.file.myqcloud.com
+  - DOMAIN-SUFFIX,ggoplay.com
+  - DOMAIN-SUFFIX,ggowan.com
   - DOMAIN-SUFFIX,gitdrone.cn
   - DOMAIN-SUFFIX,gmedev.cn
+  - DOMAIN-SUFFIX,go2map.com
   - DOMAIN-SUFFIX,goto-game.com
   - DOMAIN-SUFFIX,goto-game.mobi
   - DOMAIN-SUFFIX,goto-game.net.cn
@@ -237,6 +241,8 @@ payload:
   - DOMAIN-SUFFIX,imqq.com
   - DOMAIN-SUFFIX,imweb.io
   - DOMAIN-SUFFIX,in.th
+  - DOMAIN-SUFFIX,inte.sogou.com
+  - DOMAIN-SUFFIX,inte.sogoucdn.com
   - DOMAIN-SUFFIX,intltencentcos.com
   - DOMAIN-SUFFIX,isd.com
   - DOMAIN-SUFFIX,isdspeed.qq.com
@@ -265,6 +271,8 @@ payload:
   - DOMAIN-SUFFIX,labycore.cn
   - DOMAIN-SUFFIX,log.tbs.qq.com
   - DOMAIN-SUFFIX,lrts.me
+  - DOMAIN-SUFFIX,lu.sogou.com
+  - DOMAIN-SUFFIX,lu.sogoucdn.com
   - DOMAIN-SUFFIX,ludosuperstar.cn
   - DOMAIN-SUFFIX,ludoworld.net
   - DOMAIN-SUFFIX,m1.run
@@ -284,6 +292,7 @@ payload:
   - DOMAIN-SUFFIX,mszdld.cn
   - DOMAIN-SUFFIX,mszdld.com
   - DOMAIN-SUFFIX,mszdld.net
+  - DOMAIN-SUFFIX,mting.info
   - DOMAIN-SUFFIX,mtrace.qq.com
   - DOMAIN-SUFFIX,my-qcloud.com
   - DOMAIN-SUFFIX,myapp.com
@@ -314,8 +323,10 @@ payload:
   - DOMAIN-SUFFIX,oracle-tencent.net.cn
   - DOMAIN-SUFFIX,ovscdns.com
   - DOMAIN-SUFFIX,ovscdns.net
+  - DOMAIN-SUFFIX,pb.i.sogou.com
   - DOMAIN-SUFFIX,pgdt.gtimg.cn
   - DOMAIN-SUFFIX,pingjs.qq.com
+  - DOMAIN-SUFFIX,pinyin.cn
   - DOMAIN-SUFFIX,pmir.3g.qq.com
   - DOMAIN-SUFFIX,pn1waq.com
   - DOMAIN-SUFFIX,proximabeta.com
@@ -345,6 +356,7 @@ payload:
   - DOMAIN-SUFFIX,qcloudtrip.com
   - DOMAIN-SUFFIX,qcloudtt.com
   - DOMAIN-SUFFIX,qcloudwaf.com
+  - DOMAIN-SUFFIX,qd.ink
   - DOMAIN-SUFFIX,qdmm.com
   - DOMAIN-SUFFIX,qdwebim.com
   - DOMAIN-SUFFIX,qeodns.com
@@ -392,11 +404,28 @@ payload:
   - DOMAIN-SUFFIX,scsentry.cn
   - DOMAIN-SUFFIX,serverlesscloud.cn
   - DOMAIN-SUFFIX,servicewechat.com
+  - DOMAIN-SUFFIX,sg.cn
   - DOMAIN-SUFFIX,sgp.file.myqcloud.com
+  - DOMAIN-SUFFIX,sgtmos.com
+  - DOMAIN-SUFFIX,sgyeyou.com
+  - DOMAIN-SUFFIX,sgyouxi.com
   - DOMAIN-SUFFIX,skydweller.cn
   - DOMAIN-SUFFIX,smtcdns.com
   - DOMAIN-SUFFIX,smtcdns.net
   - DOMAIN-SUFFIX,sngmta.qq.com
+  - DOMAIN-SUFFIX,sogo.com
+  - DOMAIN-SUFFIX,sogou-inc.com
+  - DOMAIN-SUFFIX,sogou-op.org
+  - DOMAIN-SUFFIX,sogou.cn
+  - DOMAIN-SUFFIX,sogou.com
+  - DOMAIN-SUFFIX,sogou.com.cn
+  - DOMAIN-SUFFIX,sogou.net
+  - DOMAIN-SUFFIX,sogoucdn.com
+  - DOMAIN-SUFFIX,sogoucdndl.com
+  - DOMAIN-SUFFIX,sogouimecdn.com
+  - DOMAIN-SUFFIX,soso.com
+  - DOMAIN-SUFFIX,soso.com.cn
+  - DOMAIN-SUFFIX,sososnap.com
   - DOMAIN-SUFFIX,spcdntip.com
   - DOMAIN-SUFFIX,spcdntipbak.com
   - DOMAIN-SUFFIX,spcloudhw.com
@@ -476,6 +505,7 @@ payload:
   - DOMAIN-SUFFIX,tdnsv9.net
   - DOMAIN-SUFFIX,tdnsx1.com
   - DOMAIN-SUFFIX,techo.chat
+  - DOMAIN-SUFFIX,teemo.cn
   - DOMAIN-SUFFIX,tefscloud.com
   - DOMAIN-SUFFIX,tefscloud.net
   - DOMAIN-SUFFIX,tenant-zone-dev.com
@@ -540,6 +570,7 @@ payload:
   - DOMAIN-SUFFIX,texasholdemcup.net
   - DOMAIN-SUFFIX,tfogc.com
   - DOMAIN-SUFFIX,tgovcloud.com
+  - DOMAIN-SUFFIX,theta.sogoucdn.com
   - DOMAIN-SUFFIX,tidaas.com
   - DOMAIN-SUFFIX,timatrix.com.cn
   - DOMAIN-SUFFIX,timibase.com
@@ -569,12 +600,14 @@ payload:
   - DOMAIN-SUFFIX,ultimatemusic.cn
   - DOMAIN-SUFFIX,um.run
   - DOMAIN-SUFFIX,uncnn.cn
+  - DOMAIN-SUFFIX,uranus.sogou.com
   - DOMAIN-SUFFIX,vcloudstc.com
   - DOMAIN-SUFFIX,vcloudstc.net
   - DOMAIN-SUFFIX,vcloudvod.com
   - DOMAIN-SUFFIX,videoxiaoyouxi.com
   - DOMAIN-SUFFIX,vodtcbk.com
   - DOMAIN-SUFFIX,vxo7tu.com
+  - DOMAIN-SUFFIX,wannianqingjianzhan.com
   - DOMAIN-SUFFIX,wcbygame.com
   - DOMAIN-SUFFIX,webnovel.com
   - DOMAIN-SUFFIX,wechat.com
@@ -593,11 +626,15 @@ payload:
   - DOMAIN-SUFFIX,wework-studio.com
   - DOMAIN-SUFFIX,wit.qq.com
   - DOMAIN-SUFFIX,wting.info
+  - DOMAIN-SUFFIX,wuliao.epro.sogou.com
   - DOMAIN-SUFFIX,wxaurl.cn
   - DOMAIN-SUFFIX,wxcloudrun.com
   - DOMAIN-SUFFIX,wxgateway.com
   - DOMAIN-SUFFIX,wxlivecdn.com
+  - DOMAIN-SUFFIX,xiangrikuijianzhan.com
+  - DOMAIN-SUFFIX,xiangrikuisite.com
   - DOMAIN-SUFFIX,ximalaya.com
+  - DOMAIN-SUFFIX,xinyan.cn
   - DOMAIN-SUFFIX,xmcdn.com
   - DOMAIN-SUFFIX,xn--owtw8cc49ajfl.cn
   - DOMAIN-SUFFIX,xn--r70as2s.xn--fiqs8s
@@ -605,12 +642,16 @@ payload:
   - DOMAIN-SUFFIX,xs.cn
   - DOMAIN-SUFFIX,xs8.cn
   - DOMAIN-SUFFIX,xxsy.net
+  - DOMAIN-SUFFIX,yeyousg.com
+  - DOMAIN-SUFFIX,yidianliulan.cn
+  - DOMAIN-SUFFIX,yidianliulan.com
   - DOMAIN-SUFFIX,ym.run
   - DOMAIN-SUFFIX,yuewen.com
   - DOMAIN-SUFFIX,yufuid.com
   - DOMAIN-SUFFIX,yufuid.com.cn
   - DOMAIN-SUFFIX,yufuid.net
   - DOMAIN-SUFFIX,yunjitele.com
+  - DOMAIN-SUFFIX,yuweikuijianzhan.com
   - DOMAIN-SUFFIX,yxdmgame.com
   - DOMAIN-SUFFIX,yximg.cn
   - DOMAIN-SUFFIX,yxwsgame.com
