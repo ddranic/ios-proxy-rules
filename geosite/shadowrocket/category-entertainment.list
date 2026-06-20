@@ -1771,10 +1771,9 @@ DOMAIN,flightsimulator.azureedge.net
 DOMAIN,gamedownloads-rockstargames-com.akamaized.net
 DOMAIN,gamer-cds.cdn.hinet.net
 DOMAIN,gamer2-cds.cdn.hinet.net
-DOMAIN,gog-cdn-fastly.gog.com
+DOMAIN,gog-cdn-lumen.secure2.footprint.net
 DOMAIN,gog-cdn.akamaized.net
 DOMAIN,gog.qtlglb.com
-DOMAIN,gogalaxy.gog-statics.com
 DOMAIN,hamivideo.hinet.net
 DOMAIN,hb.imgix.net
 DOMAIN,heads-ak-spotify-com.akamaized.net
@@ -1794,7 +1793,6 @@ DOMAIN,lolstatic-a.akamaihd.net
 DOMAIN,lv.queniujq.cn
 DOMAIN,m1.ppy.sh
 DOMAIN,media-rockstargames-com.akamaized.net
-DOMAIN,menu-static.gog-statics.com
 DOMAIN,mobilelive-hamivideo.cdn.hinet.net
 DOMAIN,msh.amazon.co.uk
 DOMAIN,netflix.com.edgesuite.net
@@ -1815,7 +1813,6 @@ DOMAIN,p16-tiktokcdn-com.akamaized.net
 DOMAIN,play-edge.itunes.apple.com
 DOMAIN,prd-priconne-redive.akamaized.net
 DOMAIN,prodforza.blob.core.windows.net
-DOMAIN,productcard.gog-statics.com
 DOMAIN,pubg1.battleye.com
 DOMAIN,pvr-hamivideo.cdn.hinet.net
 DOMAIN,roblox-load-generator-configuration.s3.us-east-2.amazonaws.com
@@ -1833,7 +1830,6 @@ DOMAIN,spotify.com.edgesuite.net
 DOMAIN,spotify.map.fastly.net
 DOMAIN,spotify.map.fastlylb.net
 DOMAIN,static-hamivideo.cdn.hinet.net
-DOMAIN,static-login.gog-statics.com
 DOMAIN,static.siege-amazon.com
 DOMAIN,steambroadcast.akamaized.net
 DOMAIN,steamcdn-a.akamaihd.net
@@ -1894,7 +1890,6 @@ DOMAIN,weblive-hamivideo.cdn.hinet.net
 DOMAIN,weblivea-hamivideo.cdn.hinet.net
 DOMAIN,webvodad-hamivideo.cdn.hinet.net
 DOMAIN,ws.audioscrobbler.com
-DOMAIN,www4-static.gog-statics.com
 DOMAIN,xz.pphimalayanrt.com
 DOMAIN,yt3.googleusercontent.com
 URL-REGEX,^https?://[^/:]*(^|\.)apiproxy-device-prod-nlb-.+\.amazonaws\.com(?::\d+)?(?:/|$)
@@ -1902,11 +1897,8 @@ URL-REGEX,^https?://[^/:]*(^|\.)apiproxy-website-nlb-prod-.+\.amazonaws\.com(?::
 URL-REGEX,^https?://[^/:]*(^|\.)dualstack\.apiproxy-.+\.amazonaws\.com(?::\d+)?(?:/|$)
 URL-REGEX,^https?://[^/:]*(^|\.)dualstack\.ichnaea-web-.+\.amazonaws\.com(?::\d+)?(?:/|$)
 URL-REGEX,^https?://[0-9]+vod-adaptive\.akamaized\.net(?::\d+)?(?:/|$)
-URL-REGEX,^https?://cdn-akamai-.+\.gog-services\.com(?::\d+)?(?:/|$)
 URL-REGEX,^https?://cdn\d-epicgames-\d+\.file\.myqcloud\.com(?::\d+)?(?:/|$)
 URL-REGEX,^https?://epicgames-download\d-\d+\.file\.myqcloud\.com(?::\d+)?(?:/|$)
 URL-REGEX,^https?://epicgames-download\d\.akamaized\.net(?::\d+)?(?:/|$)
 URL-REGEX,^https?://ewcdn[0-9]+\.nowe\.com(?::\d+)?(?:/|$)
-URL-REGEX,^https?://gog-cdn-.+\.footprint\.net(?::\d+)?(?:/|$)
 URL-REGEX,^https?://hses[1-7]?\.akamaized\.net(?::\d+)?(?:/|$)
-URL-REGEX,^https?://images(-\d)?\.gog-statics\.com(?::\d+)?(?:/|$)

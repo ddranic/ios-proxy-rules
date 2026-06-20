@@ -24113,10 +24113,8 @@ DOMAIN,gbxgateway-dev.dell.com
 DOMAIN,gbxgateway.dell.com
 DOMAIN,github-api.arkoselabs.com
 DOMAIN,gitlab-assets.oss-cn-hongkong.aliyuncs.com
-DOMAIN,gog-cdn-fastly.gog.com
-DOMAIN,gog-cdn.akamaized.net
+DOMAIN,gog-cdn-lumen.secure2.footprint.net
 DOMAIN,gog.qtlglb.com
-DOMAIN,gogalaxy.gog-statics.com
 DOMAIN,gonglchuangl.net
 DOMAIN,gongyichuangyi.net
 DOMAIN,google-analytics-cn.com
@@ -24256,7 +24254,6 @@ DOMAIN,mc.yandex.net
 DOMAIN,mc.yango.com
 DOMAIN,mdr.ksn.kaspersky-labs.com
 DOMAIN,medone-education.thieme.com
-DOMAIN,menu-static.gog-statics.com
 DOMAIN,mesu-cdn.apple.com.akadns.net
 DOMAIN,mesu-china.apple.com.akadns.net
 DOMAIN,mesu.apple.com
@@ -24356,7 +24353,6 @@ DOMAIN,prod-controlbe.floonet.goog
 DOMAIN,prod-databe.floonet.goog
 DOMAIN,prod-support.apple-support.akadns.net
 DOMAIN,prod.databe.floonet.goog
-DOMAIN,productcard.gog-statics.com
 DOMAIN,prodvizhenie-adv.ozon.ru
 DOMAIN,public-us-pingsx.api.clonoth.com
 DOMAIN,publicassets.cdn-apple.com
@@ -24478,7 +24474,6 @@ DOMAIN,stacks.vk-portal.net
 DOMAIN,staging-controlbe.floonet.goog
 DOMAIN,staging-databe.floonet.goog
 DOMAIN,staging.databe.floonet.goog
-DOMAIN,static-login.gog-statics.com
 DOMAIN,static.gc.apple.com
 DOMAIN,statics.teams.cdn.office.net
 DOMAIN,stats.avito.ru
@@ -24576,7 +24571,6 @@ DOMAIN,www.pxcc.com
 DOMAIN,www.recaptcha-cn.net
 DOMAIN,www.recaptcha.net
 DOMAIN,www.support.apple.com
-DOMAIN,www4-static.gog-statics.com
 DOMAIN,xapi.ozon.by
 DOMAIN,xapi.ozon.com.by
 DOMAIN,xapi.ozon.com.kz
@@ -24740,15 +24734,12 @@ URL-REGEX,^https?://[^/:]*.+\.awsdns-cn-[0-9][a-e0-9]\.cn(?::\d+)?(?:/|$)
 URL-REGEX,^https?://[^/:]*.+\.dkr\.ecr\.[^\.]+\.amazonaws\.com(?::\d+)?(?:/|$)
 URL-REGEX,^https?://(.+\.)*zh\.okaapps\.com(?::\d+)?(?:/|$)
 URL-REGEX,^https?://[0-9]+vod-adaptive\.akamaized\.net(?::\d+)?(?:/|$)
-URL-REGEX,^https?://cdn-akamai-.+\.gog-services\.com(?::\d+)?(?:/|$)
 URL-REGEX,^https?://cdn\d-epicgames-\d+\.file\.myqcloud\.com(?::\d+)?(?:/|$)
 URL-REGEX,^https?://chatgpt-async-webps-prod-\S+-\d+\.webpubsub\.azure\.com(?::\d+)?(?:/|$)
 URL-REGEX,^https?://epicgames-download\d-\d+\.file\.myqcloud\.com(?::\d+)?(?:/|$)
 URL-REGEX,^https?://epicgames-download\d\.akamaized\.net(?::\d+)?(?:/|$)
 URL-REGEX,^https?://ewcdn[0-9]+\.nowe\.com(?::\d+)?(?:/|$)
-URL-REGEX,^https?://gog-cdn-.+\.footprint\.net(?::\d+)?(?:/|$)
 URL-REGEX,^https?://hses[1-7]?\.akamaized\.net(?::\d+)?(?:/|$)
-URL-REGEX,^https?://images(-\d)?\.gog-statics\.com(?::\d+)?(?:/|$)
 URL-REGEX,^https?://r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com(?::\d+)?(?:/|$)
 URL-REGEX,^https?://r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com(?::\d+)?(?:/|$)
 URL-REGEX,^https?://[^/:]*javdb\d+\.com(?::\d+)?(?:/|$)

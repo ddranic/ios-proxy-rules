@@ -24114,10 +24114,8 @@ payload:
   - DOMAIN,gbxgateway.dell.com
   - DOMAIN,github-api.arkoselabs.com
   - DOMAIN,gitlab-assets.oss-cn-hongkong.aliyuncs.com
-  - DOMAIN,gog-cdn-fastly.gog.com
-  - DOMAIN,gog-cdn.akamaized.net
+  - DOMAIN,gog-cdn-lumen.secure2.footprint.net
   - DOMAIN,gog.qtlglb.com
-  - DOMAIN,gogalaxy.gog-statics.com
   - DOMAIN,gonglchuangl.net
   - DOMAIN,gongyichuangyi.net
   - DOMAIN,google-analytics-cn.com
@@ -24257,7 +24255,6 @@ payload:
   - DOMAIN,mc.yango.com
   - DOMAIN,mdr.ksn.kaspersky-labs.com
   - DOMAIN,medone-education.thieme.com
-  - DOMAIN,menu-static.gog-statics.com
   - DOMAIN,mesu-cdn.apple.com.akadns.net
   - DOMAIN,mesu-china.apple.com.akadns.net
   - DOMAIN,mesu.apple.com
@@ -24357,7 +24354,6 @@ payload:
   - DOMAIN,prod-databe.floonet.goog
   - DOMAIN,prod-support.apple-support.akadns.net
   - DOMAIN,prod.databe.floonet.goog
-  - DOMAIN,productcard.gog-statics.com
   - DOMAIN,prodvizhenie-adv.ozon.ru
   - DOMAIN,public-us-pingsx.api.clonoth.com
   - DOMAIN,publicassets.cdn-apple.com
@@ -24479,7 +24475,6 @@ payload:
   - DOMAIN,staging-controlbe.floonet.goog
   - DOMAIN,staging-databe.floonet.goog
   - DOMAIN,staging.databe.floonet.goog
-  - DOMAIN,static-login.gog-statics.com
   - DOMAIN,static.gc.apple.com
   - DOMAIN,statics.teams.cdn.office.net
   - DOMAIN,stats.avito.ru
@@ -24577,7 +24572,6 @@ payload:
   - DOMAIN,www.recaptcha-cn.net
   - DOMAIN,www.recaptcha.net
   - DOMAIN,www.support.apple.com
-  - DOMAIN,www4-static.gog-statics.com
   - DOMAIN,xapi.ozon.by
   - DOMAIN,xapi.ozon.com.by
   - DOMAIN,xapi.ozon.com.kz
@@ -24741,15 +24735,12 @@ payload:
   - DOMAIN-REGEX,.+\.dkr\.ecr\.[^\.]+\.amazonaws\.com$
   - DOMAIN-REGEX,^(.+\.)*zh\.okaapps\.com$
   - DOMAIN-REGEX,^[0-9]+vod-adaptive\.akamaized\.net$
-  - DOMAIN-REGEX,^cdn-akamai-.+\.gog-services\.com$
   - DOMAIN-REGEX,^cdn\d-epicgames-\d+\.file\.myqcloud\.com$
   - DOMAIN-REGEX,^chatgpt-async-webps-prod-\S+-\d+\.webpubsub\.azure\.com$
   - DOMAIN-REGEX,^epicgames-download\d-\d+\.file\.myqcloud\.com$
   - DOMAIN-REGEX,^epicgames-download\d\.akamaized\.net$
   - DOMAIN-REGEX,^ewcdn[0-9]+\.nowe\.com$
-  - DOMAIN-REGEX,^gog-cdn-.+\.footprint\.net$
   - DOMAIN-REGEX,^hses[1-7]?\.akamaized\.net$
-  - DOMAIN-REGEX,^images(-\d)?\.gog-statics\.com$
   - DOMAIN-REGEX,^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.googlevideo\.com$
   - DOMAIN-REGEX,^r+[0-9]+(---|\.)sn-(2x3|ni5|j5o)\w{5}\.xn--ngstr-lra8j\.com$
   - DOMAIN-REGEX,javdb\d+\.com$
