@@ -10,8 +10,11 @@
     },
     {
       "domain_suffix": [
+        "gog-services.com",
         "gog-statics.com",
-        "gog.com"
+        "gog.com",
+        "gogalaxy.com",
+        "insights-collector.gog.com"
       ]
     }
   ]
