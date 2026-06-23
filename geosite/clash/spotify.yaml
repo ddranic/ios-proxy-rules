@@ -1,5 +1,6 @@
 payload:
   - DOMAIN-SUFFIX,byspotify.com
+  - DOMAIN-SUFFIX,lifeatspotify.com
   - DOMAIN-SUFFIX,pscdn.co
   - DOMAIN-SUFFIX,scdn.co
   - DOMAIN-SUFFIX,spoti.fi
@@ -12,6 +13,7 @@ payload:
   - DOMAIN-SUFFIX,spotifycharts.com
   - DOMAIN-SUFFIX,spotifycodes.com
   - DOMAIN-SUFFIX,spotifyforbrands.com
+  - DOMAIN-SUFFIX,spotifyforvendors.com
   - DOMAIN-SUFFIX,spotifyjobs.com
   - DOMAIN-SUFFIX,tospotify.com
   - DOMAIN,adeventtracker.spotify.com

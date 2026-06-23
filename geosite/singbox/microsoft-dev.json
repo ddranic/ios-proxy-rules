@@ -76,7 +76,10 @@
         "vsassets.io",
         "vscode-cdn.net",
         "vscode-unpkg.net",
+        "vscode-webview.net",
         "vscode.dev",
+        "vscodeedu.app",
+        "vscodeedu.com",
         "xamarin.com"
       ]
     }

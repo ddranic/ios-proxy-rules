@@ -2681,6 +2681,7 @@ DOMAIN-SUFFIX,evolverpro.com
 DOMAIN-SUFFIX,eworld.com
 DOMAIN-SUFFIX,exacttarget.com
 DOMAIN-SUFFIX,exascale-tech.com
+DOMAIN-SUFFIX,exp-tas.com
 DOMAIN-SUFFIX,experience-vmware.com
 DOMAIN-SUFFIX,exploreintel.com
 DOMAIN-SUFFIX,expresswifi.com
@@ -3248,6 +3249,7 @@ DOMAIN-SUFFIX,gipscorp.com
 DOMAIN-SUFFIX,git.io
 DOMAIN-SUFFIX,github.ai
 DOMAIN-SUFFIX,github.blog
+DOMAIN-SUFFIX,github.career
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,github.community
 DOMAIN-SUFFIX,github.dev
@@ -6046,15 +6048,18 @@ DOMAIN-SUFFIX,salesforcemarketingcloud.com
 DOMAIN-SUFFIX,samebags.com
 DOMAIN-SUFFIX,samsung
 DOMAIN-SUFFIX,samsung.com
+DOMAIN-SUFFIX,samsung.com.cn
 DOMAIN-SUFFIX,samsungadhub.com
 DOMAIN-SUFFIX,samsungads.com
 DOMAIN-SUFFIX,samsungapps.com
 DOMAIN-SUFFIX,samsungcloud.com
+DOMAIN-SUFFIX,samsungcloudcn.com
 DOMAIN-SUFFIX,samsungconsent.com
 DOMAIN-SUFFIX,samsungdm.com
 DOMAIN-SUFFIX,samsungeshop.com.cn
 DOMAIN-SUFFIX,samsunggalaxyfriends.com
 DOMAIN-SUFFIX,samsunghealth.com
+DOMAIN-SUFFIX,samsunghealthcn.com
 DOMAIN-SUFFIX,samsungiotcloud.com
 DOMAIN-SUFFIX,samsungiots.com
 DOMAIN-SUFFIX,samsungknox.com
@@ -6894,7 +6899,10 @@ DOMAIN-SUFFIX,vscale.io
 DOMAIN-SUFFIX,vscale.ru
 DOMAIN-SUFFIX,vscode-cdn.net
 DOMAIN-SUFFIX,vscode-unpkg.net
+DOMAIN-SUFFIX,vscode-webview.net
 DOMAIN-SUFFIX,vscode.dev
+DOMAIN-SUFFIX,vscodeedu.app
+DOMAIN-SUFFIX,vscodeedu.com
 DOMAIN-SUFFIX,vsphere.com
 DOMAIN-SUFFIX,vsphere.net
 DOMAIN-SUFFIX,vultr.com
@@ -7790,7 +7798,6 @@ DOMAIN,dc1-st.ksn.kaspersky-labs.com
 DOMAIN,dc1.ksn.kaspersky-labs.com
 DOMAIN,dd-cdn.origin-apple.com.akadns.net
 DOMAIN,dds.dell.com
-DOMAIN,default.exp-tas.com
 DOMAIN,dejavu.apple.com
 DOMAIN,developer.microsoft.com
 DOMAIN,devimages-cdn.apple.com
