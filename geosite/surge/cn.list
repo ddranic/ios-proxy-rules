@@ -1461,6 +1461,8 @@ DOMAIN-SUFFIX,cmpassport.com
 DOMAIN-SUFFIX,cmpay.com
 DOMAIN-SUFFIX,cmread.com
 DOMAIN-SUFFIX,cn
+DOMAIN-SUFFIX,cn-hangzhou.aliyuncs.com
+DOMAIN-SUFFIX,cn-shanghai.aliyuncs.com
 DOMAIN-SUFFIX,cn.pool.ntp.org
 DOMAIN-SUFFIX,cnanzhi.com
 DOMAIN-SUFFIX,cnb.cool
@@ -5908,11 +5910,14 @@ DOMAIN-SUFFIX,zysou.com
 DOMAIN-SUFFIX,zz.bdstatic.com
 DOMAIN-SUFFIX,zzdtec.com
 DOMAIN-SUFFIX,zztfly.com
+DOMAIN,account-cn.alibabacloud.com
 DOMAIN,ads3-normal-hl.zijieapi.com
 DOMAIN,ads3-normal.zijieapi.com
 DOMAIN,ads5-normal-hl.zijieapi.com
 DOMAIN,ads5-normal.zijieapi.com
+DOMAIN,api.alibabacloud.com
 DOMAIN,apilog-web.acfun.cn
+DOMAIN,cn.alibabacloud.com
 DOMAIN,ctdsb.clouddiffuse.xyz
 DOMAIN,end-api.shallow.ink
 DOMAIN,end.shallow.ink
@@ -5943,6 +5948,7 @@ DOMAIN,rtlog3-applog-hl.fqnovel.com
 DOMAIN,rtlog3-applog.fqnovel.com
 DOMAIN,rtlog5-applog-hl.fqnovel.com
 DOMAIN,rtlog5-applog.fqnovel.com
+DOMAIN,status.alibabacloud.com
 DOMAIN,time.amazonaws.cn
 DOMAIN,time.izatcloud.net
 DOMAIN,time.xtracloud.net

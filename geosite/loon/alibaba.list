@@ -140,6 +140,7 @@ DOMAIN-SUFFIX,antfin.com
 DOMAIN-SUFFIX,antfortune.com
 DOMAIN-SUFFIX,antgroup-inc.cn
 DOMAIN-SUFFIX,antgroup.com
+DOMAIN-SUFFIX,ap-southeast-1.aliyuncs.com
 DOMAIN-SUFFIX,ar.umeng.com
 DOMAIN-SUFFIX,asczwa.com
 DOMAIN-SUFFIX,asczxcefsv.com
@@ -164,6 +165,8 @@ DOMAIN-SUFFIX,ccs.umeng.com
 DOMAIN-SUFFIX,cdngslb.com
 DOMAIN-SUFFIX,cheng.xin
 DOMAIN-SUFFIX,cloudeagle.cn
+DOMAIN-SUFFIX,cn-hangzhou.aliyuncs.com
+DOMAIN-SUFFIX,cn-shanghai.aliyuncs.com
 DOMAIN-SUFFIX,cnlogs.umeng.com
 DOMAIN-SUFFIX,cnlogs.umengcloud.com
 DOMAIN-SUFFIX,cnzz.com
@@ -433,3 +436,7 @@ DOMAIN-SUFFIX,zhisheng.com
 DOMAIN-SUFFIX,zimgs.cn
 DOMAIN-SUFFIX,ztna-dingtalk.com
 DOMAIN-SUFFIX,zuodao.com
+DOMAIN,account-cn.alibabacloud.com
+DOMAIN,api.alibabacloud.com
+DOMAIN,cn.alibabacloud.com
+DOMAIN,status.alibabacloud.com

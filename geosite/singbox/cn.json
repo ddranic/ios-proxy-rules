@@ -3,11 +3,14 @@
   "rules": [
     {
       "domain": [
+        "account-cn.alibabacloud.com",
         "ads3-normal-hl.zijieapi.com",
         "ads3-normal.zijieapi.com",
         "ads5-normal-hl.zijieapi.com",
         "ads5-normal.zijieapi.com",
+        "api.alibabacloud.com",
         "apilog-web.acfun.cn",
+        "cn.alibabacloud.com",
         "ctdsb.clouddiffuse.xyz",
         "end-api.shallow.ink",
         "end.shallow.ink",
@@ -38,6 +41,7 @@
         "rtlog3-applog.fqnovel.com",
         "rtlog5-applog-hl.fqnovel.com",
         "rtlog5-applog.fqnovel.com",
+        "status.alibabacloud.com",
         "time.amazonaws.cn",
         "time.izatcloud.net",
         "time.xtracloud.net",
@@ -1510,6 +1514,8 @@
         "cmpay.com",
         "cmread.com",
         "cn",
+        "cn-hangzhou.aliyuncs.com",
+        "cn-shanghai.aliyuncs.com",
         "cn.pool.ntp.org",
         "cnanzhi.com",
         "cnb.cool",

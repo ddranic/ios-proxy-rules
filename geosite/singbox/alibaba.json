@@ -2,6 +2,14 @@
   "version": 2,
   "rules": [
     {
+      "domain": [
+        "account-cn.alibabacloud.com",
+        "api.alibabacloud.com",
+        "cn.alibabacloud.com",
+        "status.alibabacloud.com"
+      ]
+    },
+    {
       "domain_suffix": [
         "11222.cn",
         "1688.com",
@@ -145,6 +153,7 @@
         "antfortune.com",
         "antgroup-inc.cn",
         "antgroup.com",
+        "ap-southeast-1.aliyuncs.com",
         "ar.umeng.com",
         "asczwa.com",
         "asczxcefsv.com",
@@ -169,6 +178,8 @@
         "cdngslb.com",
         "cheng.xin",
         "cloudeagle.cn",
+        "cn-hangzhou.aliyuncs.com",
+        "cn-shanghai.aliyuncs.com",
         "cnlogs.umeng.com",
         "cnlogs.umengcloud.com",
         "cnzz.com",
