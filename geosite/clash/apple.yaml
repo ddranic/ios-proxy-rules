@@ -326,6 +326,7 @@ payload:
   - DOMAIN-SUFFIX,applereach.com
   - DOMAIN-SUFFIX,applereach.net
   - DOMAIN-SUFFIX,apples-msk.ru
+  - DOMAIN-SUFFIX,appleschoolcontent.com
   - DOMAIN-SUFFIX,applescreensavers.com
   - DOMAIN-SUFFIX,applescript.info
   - DOMAIN-SUFFIX,appleshare.info
@@ -406,6 +407,7 @@ payload:
   - DOMAIN-SUFFIX,appule.com
   - DOMAIN-SUFFIX,appye.com
   - DOMAIN-SUFFIX,apyle.com
+  - DOMAIN-SUFFIX,apzones.com
   - DOMAIN-SUFFIX,asto.re
   - DOMAIN-SUFFIX,aucheapbeats.com
   - DOMAIN-SUFFIX,audiobeatsau.com
@@ -415,6 +417,7 @@ payload:
   - DOMAIN-SUFFIX,auricularesbeatsbaratosshop.com
   - DOMAIN-SUFFIX,auricularesbeatsmarkt.com
   - DOMAIN-SUFFIX,ausbeatsbydrdre.com
+  - DOMAIN-SUFFIX,axm-usercontent-apple.com
   - DOMAIN-SUFFIX,bag-glasses1.com
   - DOMAIN-SUFFIX,bandgirlz.com
   - DOMAIN-SUFFIX,baxsound.com
@@ -989,6 +992,7 @@ payload:
   - DOMAIN-SUFFIX,ichat.co.in
   - DOMAIN-SUFFIX,icloud-apple.cn
   - DOMAIN-SUFFIX,icloud-content.com
+  - DOMAIN-SUFFIX,icloud-content.com.cn
   - DOMAIN-SUFFIX,icloud-isupport.com
   - DOMAIN-SUFFIX,icloud-sandbox.com
   - DOMAIN-SUFFIX,icloud.ch
