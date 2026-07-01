@@ -16,6 +16,4 @@ payload:
   - IP-CIDR6,2a12:ef87:6000::/36
   - IP-CIDR6,2a12:f381:bd00::/40
   - IP-CIDR6,2a12:f382:bd00::/40
-  - IP-CIDR6,2a14:7581:3bfc::/48
-  - IP-CIDR6,2a14:7584:eff1::/48
   - IP-CIDR6,2a14:7585:f50e::/48
