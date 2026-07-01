@@ -162,6 +162,7 @@ payload:
   - DOMAIN-SUFFIX,byteq5k.com
   - DOMAIN-SUFFIX,byteq8u.net
   - DOMAIN-SUFFIX,bytescm.com
+  - DOMAIN-SUFFIX,bytespeech.com
   - DOMAIN-SUFFIX,bytesslb.net
   - DOMAIN-SUFFIX,bytetcc.com
   - DOMAIN-SUFFIX,bytetech.info
@@ -450,6 +451,7 @@ payload:
   - DOMAIN-SUFFIX,okr.com
   - DOMAIN-SUFFIX,okr.com.cn
   - DOMAIN-SUFFIX,oortgslb.com
+  - DOMAIN-SUFFIX,open-douyin.com
   - DOMAIN-SUFFIX,openbcs.com
   - DOMAIN-SUFFIX,openve.cn
   - DOMAIN-SUFFIX,originalimg.com
