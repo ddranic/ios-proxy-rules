@@ -29,6 +29,7 @@
         "sbeacon.sina.com.cn",
         "sdkclick.mobile.sina.cn",
         "sg.weibo.com",
+        "sina",
         "sina.cn",
         "sina.com",
         "sina.com.cn",
@@ -51,12 +52,14 @@
         "wbimg.cn",
         "wbimg.com",
         "wcdn.cn",
+        "weibo",
         "weibo.cn",
         "weibo.com",
         "weibo.com.cn",
         "weibocdn.com",
         "weibopay.com",
-        "xhaiwai.com"
+        "xhaiwai.com",
+        "xn--9krt00a"
       ]
     }
   ]
