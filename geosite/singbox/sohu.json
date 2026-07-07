@@ -3,6 +3,8 @@
   "rules": [
     {
       "domain_suffix": [
+        "17173.com",
+        "17173cdn.com",
         "56.com",
         "56img.com",
         "adnet.sohu.com",
@@ -11,6 +13,8 @@
         "adv-sv-stat.focus.cn",
         "assp.sohu.com",
         "bdu.focus.cn",
+        "changyou.com",
+        "cy.com",
         "focus-img.cn",
         "focus.cn",
         "fpb.sohu.com",
@@ -18,6 +22,7 @@
         "itc.cn",
         "m.aty.sohu.com",
         "p.aty.sohu.com",
+        "playcool.com",
         "pv.hd.sohu.com",
         "pv.sohu.com",
         "qpb.sohu.com",
@@ -26,7 +31,9 @@
         "sohu",
         "sohu.com",
         "sohucs.com",
-        "track.sohu.com"
+        "track.sohu.com",
+        "yeyou.com",
+        "yeyoucdn.com"
       ]
     }
   ]

@@ -610,6 +610,8 @@ payload:
   - DOMAIN-SUFFIX,nextstudios.com
   - DOMAIN-SUFFIX,nextvid.net
   - DOMAIN-SUFFIX,nextworkshop.net
+  - DOMAIN-SUFFIX,nikkigames.cn
+  - DOMAIN-SUFFIX,nikkigames.com.cn
   - DOMAIN-SUFFIX,novelfm.com
   - DOMAIN-SUFFIX,novelfmpic.com
   - DOMAIN-SUFFIX,novelfmstatic.com
@@ -617,6 +619,8 @@ payload:
   - DOMAIN-SUFFIX,nzsiteres.com
   - DOMAIN-SUFFIX,open-douyin.com
   - DOMAIN-SUFFIX,p-log.ykimg.com
+  - DOMAIN-SUFFIX,papegames.cn
+  - DOMAIN-SUFFIX,papegames.com
   - DOMAIN-SUFFIX,passport-log.youku.com
   - DOMAIN-SUFFIX,pearvideo.com
   - DOMAIN-SUFFIX,phira.cn
@@ -713,6 +717,7 @@ payload:
   - DOMAIN-SUFFIX,tadu.com
   - DOMAIN-SUFFIX,taihe.com
   - DOMAIN-SUFFIX,taihemusic.cn
+  - DOMAIN-SUFFIX,tanwan.com
   - DOMAIN-SUFFIX,taomee.com
   - DOMAIN-SUFFIX,tapapks.com
   - DOMAIN-SUFFIX,tapimg.com
@@ -743,6 +748,8 @@ payload:
   - DOMAIN-SUFFIX,tudou.com
   - DOMAIN-SUFFIX,tuer123.com
   - DOMAIN-SUFFIX,tuyoo.com
+  - DOMAIN-SUFFIX,twyx.cn
+  - DOMAIN-SUFFIX,twyxh.com
   - DOMAIN-SUFFIX,u17.com
   - DOMAIN-SUFFIX,u17i.com
   - DOMAIN-SUFFIX,u17t.com
@@ -752,6 +759,7 @@ payload:
   - DOMAIN-SUFFIX,v6-adashx.ut.youku.com
   - DOMAIN-SUFFIX,vgtime.com
   - DOMAIN-SUFFIX,videoxiaoyouxi.com
+  - DOMAIN-SUFFIX,vistopia.com.cn
   - DOMAIN-SUFFIX,viviv.com
   - DOMAIN-SUFFIX,vrzwk.cn
   - DOMAIN-SUFFIX,vrzwk.com
@@ -809,6 +817,8 @@ payload:
   - DOMAIN-SUFFIX,yamibo.com
   - DOMAIN-SUFFIX,ycgame.com
   - DOMAIN-SUFFIX,yeshen.com
+  - DOMAIN-SUFFIX,yeyou.com
+  - DOMAIN-SUFFIX,yeyoucdn.com
   - DOMAIN-SUFFIX,yingxiong.com
   - DOMAIN-SUFFIX,yiyouliao.com
   - DOMAIN-SUFFIX,yjwujian.cn
@@ -847,6 +857,7 @@ payload:
   - DOMAIN-SUFFIX,zhuoyuegame.com
   - DOMAIN-SUFFIX,zjshulong.com
   - DOMAIN-SUFFIX,zongheng.com
+  - DOMAIN-SUFFIX,zx.com
   - DOMAIN,ads3-normal-hl.zijieapi.com
   - DOMAIN,ads3-normal.zijieapi.com
   - DOMAIN,ads5-normal-hl.zijieapi.com

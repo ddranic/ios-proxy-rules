@@ -1383,6 +1383,7 @@ payload:
   - DOMAIN-SUFFIX,cjjd19.com
   - DOMAIN-SUFFIX,cjol.com
   - DOMAIN-SUFFIX,cjsc.com
+  - DOMAIN-SUFFIX,cjyun.org
   - DOMAIN-SUFFIX,ckd.im
   - DOMAIN-SUFFIX,ckxx.net
   - DOMAIN-SUFFIX,clawhub-mirror.com
@@ -2725,6 +2726,7 @@ payload:
   - DOMAIN-SUFFIX,hxnews.com
   - DOMAIN-SUFFIX,hxsd.com
   - DOMAIN-SUFFIX,hybiome.com
+  - DOMAIN-SUFFIX,hydun.com
   - DOMAIN-SUFFIX,hypercachenet.com
   - DOMAIN-SUFFIX,hypercachenode.com
   - DOMAIN-SUFFIX,hzdtv.tv
@@ -3531,6 +3533,7 @@ payload:
   - DOMAIN-SUFFIX,local-ip.online
   - DOMAIN-SUFFIX,lofter.com
   - DOMAIN-SUFFIX,lofter.httpdns.c.163.com
+  - DOMAIN-SUFFIX,log-global.aliyuncs.com
   - DOMAIN-SUFFIX,log-upload.mihoyo.com
   - DOMAIN-SUFFIX,log.hunantv.com
   - DOMAIN-SUFFIX,log.mix.sina.com.cn
@@ -3551,6 +3554,7 @@ payload:
   - DOMAIN-SUFFIX,lorhf.com
   - DOMAIN-SUFFIX,lotpc.com
   - DOMAIN-SUFFIX,loupan.com
+  - DOMAIN-SUFFIX,lovestu.com
   - DOMAIN-SUFFIX,lppz.com
   - DOMAIN-SUFFIX,lppzimg.com
   - DOMAIN-SUFFIX,lrts.me
@@ -4063,6 +4067,7 @@ payload:
   - DOMAIN-SUFFIX,panplayable-toutiao-b.com
   - DOMAIN-SUFFIX,panplayable-toutiao.com
   - DOMAIN-SUFFIX,paopaoche.net
+  - DOMAIN-SUFFIX,papegames.com
   - DOMAIN-SUFFIX,papocket.com
   - DOMAIN-SUFFIX,passport-log.youku.com
   - DOMAIN-SUFFIX,paydxm.com
@@ -4708,6 +4713,7 @@ payload:
   - DOMAIN-SUFFIX,talkinggame.com
   - DOMAIN-SUFFIX,tamaegis.com
   - DOMAIN-SUFFIX,tangeche.com
+  - DOMAIN-SUFFIX,tanwan.com
   - DOMAIN-SUFFIX,tanx.com
   - DOMAIN-SUFFIX,tao123.com
   - DOMAIN-SUFFIX,taobao
@@ -5034,6 +5040,7 @@ payload:
   - DOMAIN-SUFFIX,tvmao.com
   - DOMAIN-SUFFIX,tvzhe.com
   - DOMAIN-SUFFIX,twscholar.com
+  - DOMAIN-SUFFIX,twyxh.com
   - DOMAIN-SUFFIX,tx-exhibition.com
   - DOMAIN-SUFFIX,txbyod.com
   - DOMAIN-SUFFIX,txidc.wang
@@ -5733,6 +5740,8 @@ payload:
   - DOMAIN-SUFFIX,yeshen.com
   - DOMAIN-SUFFIX,yeshj.com
   - DOMAIN-SUFFIX,yesky.com
+  - DOMAIN-SUFFIX,yeyou.com
+  - DOMAIN-SUFFIX,yeyoucdn.com
   - DOMAIN-SUFFIX,yeyousg.com
   - DOMAIN-SUFFIX,yfcache.com
   - DOMAIN-SUFFIX,yfcalc.com
@@ -6061,6 +6070,7 @@ payload:
   - DOMAIN-SUFFIX,zuoyebang.cc
   - DOMAIN-SUFFIX,zuoyebang.com
   - DOMAIN-SUFFIX,zway.top
+  - DOMAIN-SUFFIX,zx.com
   - DOMAIN-SUFFIX,zxhgroup.com
   - DOMAIN-SUFFIX,zxxk.com
   - DOMAIN-SUFFIX,zybang.com
