@@ -502,6 +502,7 @@ payload:
   - DOMAIN-SUFFIX,ad.weixin.qq.com
   - DOMAIN-SUFFIX,ad.xiaomi.com
   - DOMAIN-SUFFIX,ad1.xiaomi.com
+  - DOMAIN-SUFFIX,adacpp.com
   - DOMAIN-SUFFIX,adash-c.m.taobao.com
   - DOMAIN-SUFFIX,adash-c.ut.taobao.com
   - DOMAIN-SUFFIX,adash-emas.cn-hangzhou.aliyuncs.com
