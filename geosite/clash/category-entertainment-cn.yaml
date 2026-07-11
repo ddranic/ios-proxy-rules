@@ -249,6 +249,9 @@ payload:
   - DOMAIN-SUFFIX,duoduocdn.com
   - DOMAIN-SUFFIX,duoshan.com
   - DOMAIN-SUFFIX,duowan.com
+  - DOMAIN-SUFFIX,duoyi.com
+  - DOMAIN-SUFFIX,duoyigroup.cn
+  - DOMAIN-SUFFIX,duoyiwangluo.com
   - DOMAIN-SUFFIX,dwstatic.com
   - DOMAIN-SUFFIX,e.kuaishou.cn
   - DOMAIN-SUFFIX,e.kuaishou.com
@@ -379,6 +382,7 @@ payload:
   - DOMAIN-SUFFIX,h-adashx.ut.youku.com
   - DOMAIN-SUFFIX,haidubooks.com
   - DOMAIN-SUFFIX,haohaowan.net
+  - DOMAIN-SUFFIX,happyelements.com
   - DOMAIN-SUFFIX,happyhlddz.com
   - DOMAIN-SUFFIX,haydaypop.cn
   - DOMAIN-SUFFIX,hbooker.com
@@ -531,6 +535,7 @@ payload:
   - DOMAIN-SUFFIX,letv.com
   - DOMAIN-SUFFIX,letvcdn.com
   - DOMAIN-SUFFIX,letvimg.com
+  - DOMAIN-SUFFIX,leyuansu.com
   - DOMAIN-SUFFIX,lingxigames.com
   - DOMAIN-SUFFIX,lizhi.fm
   - DOMAIN-SUFFIX,lizhifm.com
@@ -756,6 +761,7 @@ payload:
   - DOMAIN-SUFFIX,ucg.cn
   - DOMAIN-SUFFIX,ultimatemusic.cn
   - DOMAIN-SUFFIX,ultracachenode.com
+  - DOMAIN-SUFFIX,updream.cn
   - DOMAIN-SUFFIX,v6-adashx.ut.youku.com
   - DOMAIN-SUFFIX,vgtime.com
   - DOMAIN-SUFFIX,videoxiaoyouxi.com
@@ -819,6 +825,7 @@ payload:
   - DOMAIN-SUFFIX,yeshen.com
   - DOMAIN-SUFFIX,yeyou.com
   - DOMAIN-SUFFIX,yeyoucdn.com
+  - DOMAIN-SUFFIX,ygduoyi.com
   - DOMAIN-SUFFIX,yingxiong.com
   - DOMAIN-SUFFIX,yiyouliao.com
   - DOMAIN-SUFFIX,yjwujian.cn
