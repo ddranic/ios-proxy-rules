@@ -2449,6 +2449,7 @@ payload:
   - DOMAIN-SUFFIX,duiou.com.cn
   - DOMAIN-SUFFIX,duitang.com
   - DOMAIN-SUFFIX,duiwai.baidu.com
+  - DOMAIN-SUFFIX,dulupay.com
   - DOMAIN-SUFFIX,dumate.cn
   - DOMAIN-SUFFIX,duoduocdn.com
   - DOMAIN-SUFFIX,duokan.com
@@ -7447,6 +7448,7 @@ payload:
   - DOMAIN-SUFFIX,yystv.cn
   - DOMAIN-SUFFIX,yytcdn.com
   - DOMAIN-SUFFIX,yzcdn.cn
+  - DOMAIN-SUFFIX,yzsgo.com
   - DOMAIN-SUFFIX,yzwb.net
   - DOMAIN-SUFFIX,yzyxgame.com
   - DOMAIN-SUFFIX,z-bank.com

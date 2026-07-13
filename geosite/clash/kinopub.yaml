@@ -14,4 +14,5 @@ payload:
   - DOMAIN-SUFFIX,pushbr.com
   - DOMAIN-SUFFIX,smarttvcdn.online
   - DOMAIN-SUFFIX,support-kp.com
+  - DOMAIN-SUFFIX,tsx.ovh
   - DOMAIN-REGEX,(\w+)-static-[0-9]+\.cdntogo\.net$

@@ -1938,6 +1938,7 @@ payload:
   - DOMAIN-SUFFIX,duiopen.com
   - DOMAIN-SUFFIX,duitang.com
   - DOMAIN-SUFFIX,duiwai.baidu.com
+  - DOMAIN-SUFFIX,dulupay.com
   - DOMAIN-SUFFIX,duoduocdn.com
   - DOMAIN-SUFFIX,duokan.com
   - DOMAIN-SUFFIX,duokanbox.com
@@ -5989,6 +5990,7 @@ payload:
   - DOMAIN-SUFFIX,yyshub.top
   - DOMAIN-SUFFIX,yystatic.com
   - DOMAIN-SUFFIX,yytcdn.com
+  - DOMAIN-SUFFIX,yzsgo.com
   - DOMAIN-SUFFIX,yzwb.net
   - DOMAIN-SUFFIX,yzyxgame.com
   - DOMAIN-SUFFIX,z-bank.com
