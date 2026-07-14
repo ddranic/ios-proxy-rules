@@ -4157,6 +4157,7 @@ payload:
   - DOMAIN-SUFFIX,bnef.com
   - DOMAIN-SUFFIX,bnext.com.tw
   - DOMAIN-SUFFIX,bntrace.com
+  - DOMAIN-SUFFIX,bnxz.net
   - DOMAIN-SUFFIX,boboporn.com
   - DOMAIN-SUFFIX,boboporn.net
   - DOMAIN-SUFFIX,bobovip.cc
@@ -4553,6 +4554,7 @@ payload:
   - DOMAIN-SUFFIX,bymj.io
   - DOMAIN-SUFFIX,bypasscensorship.org
   - DOMAIN-SUFFIX,byspotify.com
+  - DOMAIN-SUFFIX,bystys.tech
   - DOMAIN-SUFFIX,bytedapm.com
   - DOMAIN-SUFFIX,byteoversea.com
   - DOMAIN-SUFFIX,bytick.com
@@ -12825,7 +12827,14 @@ payload:
   - DOMAIN-SUFFIX,lih.kg
   - DOMAIN-SUFFIX,lihkg.com
   - DOMAIN-SUFFIX,lihksnap.com
+  - DOMAIN-SUFFIX,like-video.com
   - DOMAIN-SUFFIX,like.com
+  - DOMAIN-SUFFIX,like.video
+  - DOMAIN-SUFFIX,likee.com
+  - DOMAIN-SUFFIX,likee.video
+  - DOMAIN-SUFFIX,likeeapp.ru
+  - DOMAIN-SUFFIX,likeevideo.com
+  - DOMAIN-SUFFIX,likeevideo.ru
   - DOMAIN-SUFFIX,likeseiyu.com
   - DOMAIN-SUFFIX,liketruyen.net
   - DOMAIN-SUFFIX,liketwice.com
@@ -16113,6 +16122,7 @@ payload:
   - DOMAIN-SUFFIX,overleaf.com
   - DOMAIN-SUFFIX,overthumbs.com
   - DOMAIN-SUFFIX,ovid.com
+  - DOMAIN-SUFFIX,owxd.xyz
   - DOMAIN-SUFFIX,oxfordaasc.com
   - DOMAIN-SUFFIX,oxfordartonline.com
   - DOMAIN-SUFFIX,oxfordbibliographies.com
@@ -21063,6 +21073,7 @@ payload:
   - DOMAIN-SUFFIX,uwn.com
   - DOMAIN-SUFFIX,uwpcommunitytoolkit.com
   - DOMAIN-SUFFIX,uxthemes.com
+  - DOMAIN-SUFFIX,uxzw.club
   - DOMAIN-SUFFIX,v-av.com
   - DOMAIN-SUFFIX,v-has.com
   - DOMAIN-SUFFIX,v.gd
@@ -23682,6 +23693,7 @@ payload:
   - DOMAIN-SUFFIX,yt.be
   - DOMAIN-SUFFIX,ytimg.com
   - DOMAIN-SUFFIX,yuanming.net
+  - DOMAIN-SUFFIX,yucf.top
   - DOMAIN-SUFFIX,yuenuge113.xyz
   - DOMAIN-SUFFIX,yuenuge18.cc
   - DOMAIN-SUFFIX,yugioh-card.com
@@ -23940,6 +23952,7 @@ payload:
   - DOMAIN,advert-media-api.wildberries.ru
   - DOMAIN,advk.vk.ru
   - DOMAIN,afcs.dell.com
+  - DOMAIN,agb9r0ad.qllfkl.com
   - DOMAIN,agency-adv.ozon.ru
   - DOMAIN,alibaba.cdn.steampipe.steamcontent.com
   - DOMAIN,alt-r.my.com
@@ -24241,6 +24254,7 @@ payload:
   - DOMAIN,guzzoni-apple-com.v.aaplimg.com
   - DOMAIN,guzzoni.apple.com
   - DOMAIN,guzzoni.smoot.apple.com
+  - DOMAIN,hb4bbbbb.pmhcjk.com
   - DOMAIN,holoxx.f5.si
   - DOMAIN,hpstore.corpmerchandise.com
   - DOMAIN,hub.slarker.me
@@ -24354,6 +24368,7 @@ payload:
   - DOMAIN,mvod.itunes.apple.com
   - DOMAIN,myapp.itunes.apple.com
   - DOMAIN,myvs.download.prss.microsoft.com
+  - DOMAIN,nbbb1bb7.pmhcjk.com
   - DOMAIN,new-adv.ozon.ru
   - DOMAIN,nexus.dell.com
   - DOMAIN,np-edge.itunes.apple.com
@@ -24447,6 +24462,7 @@ payload:
   - DOMAIN,prodvizhenie-adv.ozon.ru
   - DOMAIN,public-us-pingsx.api.clonoth.com
   - DOMAIN,publicassets.cdn-apple.com
+  - DOMAIN,q676790b.pmhcjk.com
   - DOMAIN,qiao-cn.com
   - DOMAIN,qpx.googleflights.net
   - DOMAIN,questions-adv.ozon.ru
