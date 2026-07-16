@@ -3314,6 +3314,7 @@ payload:
   - DOMAIN-SUFFIX,hqpcb.com
   - DOMAIN-SUFFIX,hr-welink.com
   - DOMAIN-SUFFIX,hrsec.com.cn
+  - DOMAIN-SUFFIX,hrsecn.com
   - DOMAIN-SUFFIX,hsbc.com.cn
   - DOMAIN-SUFFIX,hsbcinsurance.com.cn
   - DOMAIN-SUFFIX,hsbcqh.com.cn
@@ -7688,6 +7689,7 @@ payload:
   - DOMAIN,ads5-normal-hl.zijieapi.com
   - DOMAIN,ads5-normal.zijieapi.com
   - DOMAIN,api.alibabacloud.com
+  - DOMAIN,api.blipsandchitz.me
   - DOMAIN,apilog-web.acfun.cn
   - DOMAIN,cn.alibabacloud.com
   - DOMAIN,ctdsb.clouddiffuse.xyz
