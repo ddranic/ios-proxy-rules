@@ -11,7 +11,6 @@ payload:
   - DOMAIN-SUFFIX,h-adashx.ut.youku.com
   - DOMAIN-SUFFIX,kumiao.com
   - DOMAIN-SUFFIX,lstat.youku.com
-  - DOMAIN-SUFFIX,mmstat.com
   - DOMAIN-SUFFIX,mobilemsg.youku.com
   - DOMAIN-SUFFIX,msg.youku.com
   - DOMAIN-SUFFIX,p-log.ykimg.com
@@ -30,3 +29,4 @@ payload:
   - DOMAIN-SUFFIX,youku.tv
   - DOMAIN-SUFFIX,youkuhonor.com
   - DOMAIN-SUFFIX,youkuplay.com
+  - DOMAIN,ykimg.alicdn.com

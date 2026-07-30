@@ -597,7 +597,6 @@ DOMAIN-SUFFIX,mihoyomall.com
 DOMAIN-SUFFIX,mincdn.com
 DOMAIN-SUFFIX,missevan.com
 DOMAIN-SUFFIX,miyoushe.com
-DOMAIN-SUFFIX,mmstat.com
 DOMAIN-SUFFIX,mobilemsg.youku.com
 DOMAIN-SUFFIX,mogoo.com
 DOMAIN-SUFFIX,monitor.music.qq.com
@@ -908,4 +907,5 @@ DOMAIN,rtlog3-applog.fqnovel.com
 DOMAIN,rtlog5-applog-hl.fqnovel.com
 DOMAIN,rtlog5-applog.fqnovel.com
 DOMAIN,wlog.kuaishou.com
+DOMAIN,ykimg.alicdn.com
 URL-REGEX,^https?://.+-mihayo\.akamaized\.net(?::\d+)?(?:/|$)
