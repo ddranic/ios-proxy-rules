@@ -115,6 +115,7 @@ payload:
   - DOMAIN-SUFFIX,19yxw.com
   - DOMAIN-SUFFIX,1hai.cn
   - DOMAIN-SUFFIX,1huizhan.com
+  - DOMAIN-SUFFIX,1kkk.com
   - DOMAIN-SUFFIX,1nongjing.com
   - DOMAIN-SUFFIX,1ppt.com
   - DOMAIN-SUFFIX,1ting.com
@@ -1431,6 +1432,7 @@ payload:
   - DOMAIN-SUFFIX,cdnbuild.com
   - DOMAIN-SUFFIX,cdnbuild.net
   - DOMAIN-SUFFIX,cdncl.net
+  - DOMAIN-SUFFIX,cdndm5.com
   - DOMAIN-SUFFIX,cdndns1.com
   - DOMAIN-SUFFIX,cdndns2.com
   - DOMAIN-SUFFIX,cdndo.com
@@ -2329,6 +2331,9 @@ payload:
   - DOMAIN-SUFFIX,dlife.cn
   - DOMAIN-SUFFIX,dlnel.com
   - DOMAIN-SUFFIX,dlnel.org
+  - DOMAIN-SUFFIX,dm5.cn
+  - DOMAIN-SUFFIX,dm5.com
+  - DOMAIN-SUFFIX,dm9.com
   - DOMAIN-SUFFIX,dmall.com
   - DOMAIN-SUFFIX,dmallcdn.com
   - DOMAIN-SUFFIX,dmhmusic.com
@@ -3008,6 +3013,7 @@ payload:
   - DOMAIN-SUFFIX,glsc.com.cn
   - DOMAIN-SUFFIX,glxcc.net
   - DOMAIN-SUFFIX,gm86.com
+  - DOMAIN-SUFFIX,gmanhua.com
   - DOMAIN-SUFFIX,gmdaily.cn
   - DOMAIN-SUFFIX,gmedev.cn
   - DOMAIN-SUFFIX,gmw.cn
@@ -3285,6 +3291,7 @@ payload:
   - DOMAIN-SUFFIX,hjapi.com
   - DOMAIN-SUFFIX,hjfile.cn
   - DOMAIN-SUFFIX,hkgcloudcs.com
+  - DOMAIN-SUFFIX,hkmanga.com
   - DOMAIN-SUFFIX,hktheone.com
   - DOMAIN-SUFFIX,hlgdata.com
   - DOMAIN-SUFFIX,hlzqgs.com
@@ -4600,6 +4607,9 @@ payload:
   - DOMAIN-SUFFIX,mamayz.cn
   - DOMAIN-SUFFIX,mamayz.com
   - DOMAIN-SUFFIX,mamecn.com
+  - DOMAIN-SUFFIX,manben.com
+  - DOMAIN-SUFFIX,manbenapi.com
+  - DOMAIN-SUFFIX,manhuaren.com
   - DOMAIN-SUFFIX,manhuatai.com
   - DOMAIN-SUFFIX,manmanbuy.com
   - DOMAIN-SUFFIX,manmankan.com
