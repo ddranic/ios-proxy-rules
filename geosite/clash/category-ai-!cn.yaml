@@ -70,6 +70,8 @@ payload:
   - DOMAIN-SUFFIX,generativeai.google
   - DOMAIN-SUFFIX,generativelanguage.googleapis.com
   - DOMAIN-SUFFIX,githubcopilot.com
+  - DOMAIN-SUFFIX,grazie.ai
+  - DOMAIN-SUFFIX,grazie.aws.intellij.net
   - DOMAIN-SUFFIX,grok.com
   - DOMAIN-SUFFIX,grok.x.com
   - DOMAIN-SUFFIX,grokipedia.com
@@ -80,6 +82,7 @@ payload:
   - DOMAIN-SUFFIX,host.livekit.cloud
   - DOMAIN-SUFFIX,huggingface.co
   - DOMAIN-SUFFIX,jasper.ai
+  - DOMAIN-SUFFIX,jetbrains.ai
   - DOMAIN-SUFFIX,jules.google
   - DOMAIN-SUFFIX,jules.google.com
   - DOMAIN-SUFFIX,kiro.dev
