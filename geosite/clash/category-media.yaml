@@ -600,8 +600,6 @@ payload:
   - DOMAIN-SUFFIX,fundfire.com
   - DOMAIN-SUFFIX,funnyordie.com
   - DOMAIN-SUFFIX,fxn.ws
-  - DOMAIN-SUFFIX,fxnetwork.com
-  - DOMAIN-SUFFIX,fxnetworks.com
   - DOMAIN-SUFFIX,g-tvapp.com
   - DOMAIN-SUFFIX,g1.com.br
   - DOMAIN-SUFFIX,ganjing.com
@@ -893,6 +891,7 @@ payload:
   - DOMAIN-SUFFIX,nbcudigitaladops.com
   - DOMAIN-SUFFIX,nbcuni.com
   - DOMAIN-SUFFIX,nbcuniversal.com
+  - DOMAIN-SUFFIX,neigbuy.com
   - DOMAIN-SUFFIX,neow.in
   - DOMAIN-SUFFIX,neowin.net
   - DOMAIN-SUFFIX,newcastlenewslocal.com.au

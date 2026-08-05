@@ -493,6 +493,7 @@ payload:
   - DOMAIN-SUFFIX,adv.sec.intl.miui.com
   - DOMAIN-SUFFIX,adv.sec.miui.com
   - DOMAIN-SUFFIX,adver.qq.com
+  - DOMAIN-SUFFIX,adx.36kr.com
   - DOMAIN-SUFFIX,adx.xiaodutv.com
   - DOMAIN-SUFFIX,adxvip.com
   - DOMAIN-SUFFIX,afd.baidu.com
@@ -2230,6 +2231,7 @@ payload:
   - DOMAIN-SUFFIX,fnnas.com
   - DOMAIN-SUFFIX,fnnas.net
   - DOMAIN-SUFFIX,fnos.net
+  - DOMAIN-SUFFIX,focuschina.com
   - DOMAIN-SUFFIX,fofa.info
   - DOMAIN-SUFFIX,fofa.so
   - DOMAIN-SUFFIX,fofuai.com
@@ -3429,7 +3431,6 @@ payload:
   - DOMAIN-SUFFIX,kuaikanmanhua.com
   - DOMAIN-SUFFIX,kuailepipixia.com
   - DOMAIN-SUFFIX,kuaishou.com
-  - DOMAIN-SUFFIX,kuaishou.httpdns.pro
   - DOMAIN-SUFFIX,kuaishouapps.com
   - DOMAIN-SUFFIX,kuaishoupay.com
   - DOMAIN-SUFFIX,kuaishouzt.com
@@ -3746,6 +3747,7 @@ payload:
   - DOMAIN-SUFFIX,m6.run
   - DOMAIN-SUFFIX,m9.run
   - DOMAIN-SUFFIX,ma.run
+  - DOMAIN-SUFFIX,made-in-china.com
   - DOMAIN-SUFFIX,mafengwo.com
   - DOMAIN-SUFFIX,mafengwo.net
   - DOMAIN-SUFFIX,magedu.com
@@ -3863,6 +3865,7 @@ payload:
   - DOMAIN-SUFFIX,miaowu.baidu.com
   - DOMAIN-SUFFIX,miaoyanai.com
   - DOMAIN-SUFFIX,miaozhen.com
+  - DOMAIN-SUFFIX,micstatic.com
   - DOMAIN-SUFFIX,micun.com
   - DOMAIN-SUFFIX,midasbuy.com
   - DOMAIN-SUFFIX,midea.com
@@ -5226,6 +5229,7 @@ payload:
   - DOMAIN-SUFFIX,trackingprd.hwwt8.com
   - DOMAIN-SUFFIX,trackserver.shuxinyc.com
   - DOMAIN-SUFFIX,tracup.com
+  - DOMAIN-SUFFIX,trademessenger.com
   - DOMAIN-SUFFIX,trae.guru
   - DOMAIN-SUFFIX,tripcdn.com
   - DOMAIN-SUFFIX,tritoninfo.net
@@ -5423,6 +5427,7 @@ payload:
   - DOMAIN-SUFFIX,vemarsdev.com
   - DOMAIN-SUFFIX,vemarsstatic.com
   - DOMAIN-SUFFIX,vemarsweb.com
+  - DOMAIN-SUFFIX,vemic.com
   - DOMAIN-SUFFIX,vertciot.com
   - DOMAIN-SUFFIX,veryhuo.com
   - DOMAIN-SUFFIX,veryzhun.com
@@ -6401,7 +6406,6 @@ payload:
   - DOMAIN,rtlog5-applog-hl.fqnovel.com
   - DOMAIN,rtlog5-applog.fqnovel.com
   - DOMAIN,status.alibabacloud.com
-  - DOMAIN,time.amazonaws.cn
   - DOMAIN,time.izatcloud.net
   - DOMAIN,time.xtracloud.net
   - DOMAIN,wlog.kuaishou.com

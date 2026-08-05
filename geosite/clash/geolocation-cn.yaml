@@ -587,6 +587,7 @@ payload:
   - DOMAIN-SUFFIX,adv.sec.intl.miui.com
   - DOMAIN-SUFFIX,adv.sec.miui.com
   - DOMAIN-SUFFIX,adver.qq.com
+  - DOMAIN-SUFFIX,adx.36kr.com
   - DOMAIN-SUFFIX,adx.xiaodutv.com
   - DOMAIN-SUFFIX,adxvip.com
   - DOMAIN-SUFFIX,afd.baidu.com
@@ -2823,6 +2824,7 @@ payload:
   - DOMAIN-SUFFIX,fnos.net
   - DOMAIN-SUFFIX,focus-img.cn
   - DOMAIN-SUFFIX,focus.cn
+  - DOMAIN-SUFFIX,focuschina.com
   - DOMAIN-SUFFIX,fofa.info
   - DOMAIN-SUFFIX,fofa.so
   - DOMAIN-SUFFIX,fofuai.com
@@ -4304,7 +4306,6 @@ payload:
   - DOMAIN-SUFFIX,kuailepipixia.com
   - DOMAIN-SUFFIX,kuaishou.cn
   - DOMAIN-SUFFIX,kuaishou.com
-  - DOMAIN-SUFFIX,kuaishou.httpdns.pro
   - DOMAIN-SUFFIX,kuaishouapps.com
   - DOMAIN-SUFFIX,kuaishoupay.com
   - DOMAIN-SUFFIX,kuaishouzt.com
@@ -4674,6 +4675,7 @@ payload:
   - DOMAIN-SUFFIX,m6.run
   - DOMAIN-SUFFIX,m9.run
   - DOMAIN-SUFFIX,ma.run
+  - DOMAIN-SUFFIX,made-in-china.com
   - DOMAIN-SUFFIX,mafengwo.cn
   - DOMAIN-SUFFIX,mafengwo.com
   - DOMAIN-SUFFIX,mafengwo.net
@@ -4816,6 +4818,7 @@ payload:
   - DOMAIN-SUFFIX,miaoya.cn
   - DOMAIN-SUFFIX,miaoyanai.com
   - DOMAIN-SUFFIX,miaozhen.com
+  - DOMAIN-SUFFIX,micstatic.com
   - DOMAIN-SUFFIX,micun.com
   - DOMAIN-SUFFIX,midasbuy.com
   - DOMAIN-SUFFIX,midea.cn
@@ -6539,6 +6542,7 @@ payload:
   - DOMAIN-SUFFIX,trackingprd.hwwt8.com
   - DOMAIN-SUFFIX,trackserver.shuxinyc.com
   - DOMAIN-SUFFIX,tracup.com
+  - DOMAIN-SUFFIX,trademessenger.com
   - DOMAIN-SUFFIX,trae.cn
   - DOMAIN-SUFFIX,trae.com.cn
   - DOMAIN-SUFFIX,trae.guru
@@ -6790,6 +6794,7 @@ payload:
   - DOMAIN-SUFFIX,vemarsdev.com
   - DOMAIN-SUFFIX,vemarsstatic.com
   - DOMAIN-SUFFIX,vemarsweb.com
+  - DOMAIN-SUFFIX,vemic.com
   - DOMAIN-SUFFIX,vertciot.com
   - DOMAIN-SUFFIX,veryhuo.com
   - DOMAIN-SUFFIX,veryzhun.com
@@ -7958,7 +7963,6 @@ payload:
   - DOMAIN,rtlog5-applog-hl.fqnovel.com
   - DOMAIN,rtlog5-applog.fqnovel.com
   - DOMAIN,status.alibabacloud.com
-  - DOMAIN,time.amazonaws.cn
   - DOMAIN,time.izatcloud.net
   - DOMAIN,time.xtracloud.net
   - DOMAIN,wlog.kuaishou.com

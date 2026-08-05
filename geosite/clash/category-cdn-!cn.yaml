@@ -101,6 +101,7 @@ payload:
   - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,cloudflare.dev
   - DOMAIN-SUFFIX,cloudflare.net
+  - DOMAIN-SUFFIX,cloudflare.pay
   - DOMAIN-SUFFIX,cloudflare.tv
   - DOMAIN-SUFFIX,cloudflareaccess.com
   - DOMAIN-SUFFIX,cloudflareanycast.net
@@ -192,4 +193,3 @@ payload:
   - DOMAIN-SUFFIX,vrcdn.video
   - DOMAIN-SUFFIX,warp.plus
   - DOMAIN-SUFFIX,workers.dev
-  - DOMAIN-SUFFIX,zencdn.net

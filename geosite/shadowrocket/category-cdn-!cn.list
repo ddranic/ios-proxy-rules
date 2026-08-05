@@ -100,6 +100,7 @@ DOMAIN-SUFFIX,cloudflare-terms-of-service-abuse.com
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,cloudflare.dev
 DOMAIN-SUFFIX,cloudflare.net
+DOMAIN-SUFFIX,cloudflare.pay
 DOMAIN-SUFFIX,cloudflare.tv
 DOMAIN-SUFFIX,cloudflareaccess.com
 DOMAIN-SUFFIX,cloudflareanycast.net
@@ -191,4 +192,3 @@ DOMAIN-SUFFIX,vrcdn.live
 DOMAIN-SUFFIX,vrcdn.video
 DOMAIN-SUFFIX,warp.plus
 DOMAIN-SUFFIX,workers.dev
-DOMAIN-SUFFIX,zencdn.net
