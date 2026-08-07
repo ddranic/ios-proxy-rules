@@ -531,7 +531,10 @@ payload:
   - DOMAIN-SUFFIX,aiqicha.com
   - DOMAIN-SUFFIX,air-matters.com
   - DOMAIN-SUFFIX,airchangan.com
+  - DOMAIN-SUFFIX,airchina.com
   - DOMAIN-SUFFIX,airchinacargo.com
+  - DOMAIN-SUFFIX,airchinagroup.com
+  - DOMAIN-SUFFIX,airchinalimited.com
   - DOMAIN-SUFFIX,airguilin.com
   - DOMAIN-SUFFIX,airnut.com
   - DOMAIN-SUFFIX,airstarfinance.net
@@ -1559,6 +1562,9 @@ payload:
   - DOMAIN-SUFFIX,cmpay.com
   - DOMAIN-SUFFIX,cmread.com
   - DOMAIN-SUFFIX,cn
+  - DOMAIN-SUFFIX,cn-beijing.aliyuncs.com
+  - DOMAIN-SUFFIX,cn-chengdu.aliyuncs.com
+  - DOMAIN-SUFFIX,cn-guangzhou.aliyuncs.com
   - DOMAIN-SUFFIX,cn-hangzhou.aliyuncs.com
   - DOMAIN-SUFFIX,cn-shanghai.aliyuncs.com
   - DOMAIN-SUFFIX,cn.pool.ntp.org
@@ -2231,6 +2237,7 @@ payload:
   - DOMAIN-SUFFIX,fjsen.com
   - DOMAIN-SUFFIX,fliggy.com
   - DOMAIN-SUFFIX,flxdns.com
+  - DOMAIN-SUFFIX,fly-airchina.com
   - DOMAIN-SUFFIX,flycua.com
   - DOMAIN-SUFFIX,flyme.com
   - DOMAIN-SUFFIX,flymeauto.com
@@ -2700,6 +2707,7 @@ payload:
   - DOMAIN-SUFFIX,hongyuanqh.com
   - DOMAIN-SUFFIX,honor.com
   - DOMAIN-SUFFIX,honorfile.com
+  - DOMAIN-SUFFIX,hotfix-api.aliyuncs.com
   - DOMAIN-SUFFIX,hotread.com
   - DOMAIN-SUFFIX,houdao.com
   - DOMAIN-SUFFIX,houyicaiji.com
@@ -4293,6 +4301,7 @@ payload:
   - DOMAIN-SUFFIX,pgzs.com
   - DOMAIN-SUFFIX,pharmacodia.com
   - DOMAIN-SUFFIX,philanthropy.xin
+  - DOMAIN-SUFFIX,phoenixmiles.com
   - DOMAIN-SUFFIX,phpcomposer.com
   - DOMAIN-SUFFIX,phpweblog.net
   - DOMAIN-SUFFIX,phpwind.com
@@ -4548,6 +4557,7 @@ payload:
   - DOMAIN-SUFFIX,realmemobile.com
   - DOMAIN-SUFFIX,redenmc.com
   - DOMAIN-SUFFIX,redmagic.com
+  - DOMAIN-SUFFIX,registry.aliyuncs.com
   - DOMAIN-SUFFIX,reke.at.sohu.com
   - DOMAIN-SUFFIX,renren-inc.com
   - DOMAIN-SUFFIX,renren.com
@@ -4588,6 +4598,7 @@ payload:
   - DOMAIN-SUFFIX,runningcheese.com
   - DOMAIN-SUFFIX,runoob.com
   - DOMAIN-SUFFIX,ruseer.com
+  - DOMAIN-SUFFIX,ruubypay.com
   - DOMAIN-SUFFIX,rwkv.com
   - DOMAIN-SUFFIX,rzrc114.com
   - DOMAIN-SUFFIX,s-adashx.ut.youku.com
@@ -4624,6 +4635,7 @@ payload:
   - DOMAIN-SUFFIX,scm121.com
   - DOMAIN-SUFFIX,scoregg.com
   - DOMAIN-SUFFIX,scratch5.com
+  - DOMAIN-SUFFIX,sctcd.com
   - DOMAIN-SUFFIX,sctv-tf.com
   - DOMAIN-SUFFIX,sctv.com
   - DOMAIN-SUFFIX,scyol.com
@@ -4695,6 +4707,7 @@ payload:
   - DOMAIN-SUFFIX,shenjing.com
   - DOMAIN-SUFFIX,shenmayouxi.com
   - DOMAIN-SUFFIX,shenzhenair.com
+  - DOMAIN-SUFFIX,shenzhentong.com
   - DOMAIN-SUFFIX,sheui.com
   - DOMAIN-SUFFIX,shfft.com
   - DOMAIN-SUFFIX,shgsec.com
@@ -4786,6 +4799,7 @@ payload:
   - DOMAIN-SUFFIX,snimay.com
   - DOMAIN-SUFFIX,snodehome.com
   - DOMAIN-SUFFIX,snowballsecurities.com
+  - DOMAIN-SUFFIX,snowballtech.com
   - DOMAIN-SUFFIX,snssdk.com
   - DOMAIN-SUFFIX,snxw.com
   - DOMAIN-SUFFIX,so.com
@@ -4838,6 +4852,7 @@ payload:
   - DOMAIN-SUFFIX,splash-ads.unitychina.cn
   - DOMAIN-SUFFIX,springairlines.com
   - DOMAIN-SUFFIX,springtour.com
+  - DOMAIN-SUFFIX,sptcc.com
   - DOMAIN-SUFFIX,sq.cc
   - DOMAIN-SUFFIX,sqqnh.org
   - DOMAIN-SUFFIX,sqreader.com
