@@ -4909,6 +4909,7 @@ payload:
   - DOMAIN-SUFFIX,mmarket6.com
   - DOMAIN-SUFFIX,mmbang.com
   - DOMAIN-SUFFIX,mmbang.info
+  - DOMAIN-SUFFIX,mmbizurl.cn
   - DOMAIN-SUFFIX,mmstat.com
   - DOMAIN-SUFFIX,mndqlib.net
   - DOMAIN-SUFFIX,mnw.cn
@@ -6774,6 +6775,7 @@ payload:
   - DOMAIN-SUFFIX,upfos.com
   - DOMAIN-SUFFIX,upyun.com
   - DOMAIN-SUFFIX,uranus.sogou.com
+  - DOMAIN-SUFFIX,url.cn
   - DOMAIN-SUFFIX,urlqh.cn
   - DOMAIN-SUFFIX,urselect.com
   - DOMAIN-SUFFIX,urtc.com.cn
