@@ -722,6 +722,7 @@ payload:
   - DOMAIN-SUFFIX,appinn.com
   - DOMAIN-SUFFIX,appjiagu.com
   - DOMAIN-SUFFIX,apple.www.letv.com
+  - DOMAIN-SUFFIX,applogcdn.com
   - DOMAIN-SUFFIX,applysquare.com
   - DOMAIN-SUFFIX,applysquare.net
   - DOMAIN-SUFFIX,appsimg.com
@@ -4669,6 +4670,7 @@ payload:
   - DOMAIN-SUFFIX,sdo.com
   - DOMAIN-SUFFIX,sealsuite.com
   - DOMAIN-SUFFIX,sealsuite.net
+  - DOMAIN-SUFFIX,searchpstatp.com
   - DOMAIN-SUFFIX,searchstatic.com
   - DOMAIN-SUFFIX,searchtoutiaolive.com
   - DOMAIN-SUFFIX,seasungames.com
