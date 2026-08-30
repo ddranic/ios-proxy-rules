@@ -70,6 +70,8 @@ payload:
   - DOMAIN-SUFFIX,taou.com
   - DOMAIN-SUFFIX,tieba.baidu.com
   - DOMAIN-SUFFIX,tieba.com
+  - DOMAIN-SUFFIX,uneed.com
+  - DOMAIN-SUFFIX,uneedx.com
   - DOMAIN-SUFFIX,videoself.cn
   - DOMAIN-SUFFIX,vzuu.com
   - DOMAIN-SUFFIX,wapwbclick.mobile.sina.cn
