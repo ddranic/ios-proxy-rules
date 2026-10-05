@@ -5,6 +5,7 @@ payload:
   - IP-CIDR6,2406:2d40:a500::/40
   - IP-CIDR6,2600:70ff:a41f::/48
   - IP-CIDR6,2600:70ff:d09e::/48
+  - IP-CIDR6,2602:814:fed0::/46
   - IP-CIDR6,2a05:dfc1:8c21::/48
   - IP-CIDR6,2a07:d887:b300::/40
   - IP-CIDR6,2a09:bac4:598::/45
