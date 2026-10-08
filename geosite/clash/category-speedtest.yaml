@@ -72,6 +72,7 @@ payload:
   - DOMAIN-SUFFIX,testmyspeed.com
   - DOMAIN-SUFFIX,testskorosti.ru
   - DOMAIN-SUFFIX,webtest.net
+  - DOMAIN-SUFFIX,wifiman.me
   - DOMAIN-SUFFIX,xnfz.seu.edu.cn
   - DOMAIN,hk-global-bgp.hkg.speedtest.yecaoyun.com
   - DOMAIN,www.speedtest.net.cdn.cloudflare.net
