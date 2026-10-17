@@ -5771,6 +5771,7 @@ payload:
   - DOMAIN-SUFFIX,cursor.com
   - DOMAIN-SUFFIX,cursor.sh
   - DOMAIN-SUFFIX,cursorapi.com
+  - DOMAIN-SUFFIX,cursorvm.com
   - DOMAIN-SUFFIX,curve.fi
   - DOMAIN-SUFFIX,curvybbwwives.com
   - DOMAIN-SUFFIX,curvyerotic.com
@@ -16182,6 +16183,7 @@ payload:
   - DOMAIN-SUFFIX,op7979.com
   - DOMAIN-SUFFIX,opac-project.eu
   - DOMAIN-SUFFIX,openai.com
+  - DOMAIN-SUFFIX,openai.org
   - DOMAIN-SUFFIX,openamt.com
   - DOMAIN-SUFFIX,openapiplatform.com
   - DOMAIN-SUFFIX,openapiservice.com
@@ -20660,6 +20662,8 @@ payload:
   - DOMAIN-SUFFIX,timestalks.com
   - DOMAIN-SUFFIX,timeweb.cloud
   - DOMAIN-SUFFIX,timeweb.com
+  - DOMAIN-SUFFIX,timeweb.tech
+  - DOMAIN-SUFFIX,timewebcloud.kz
   - DOMAIN-SUFFIX,timi1.me
   - DOMAIN-SUFFIX,timo0.com
   - DOMAIN-SUFFIX,ting53.xyz
@@ -21114,6 +21118,7 @@ payload:
   - DOMAIN-SUFFIX,typekit.com
   - DOMAIN-SUFFIX,typekit.net
   - DOMAIN-SUFFIX,typenetwork.com
+  - DOMAIN-SUFFIX,typesafe.ai
   - DOMAIN-SUFFIX,typesquare.com
   - DOMAIN-SUFFIX,typography.com
   - DOMAIN-SUFFIX,tyre-cadcam.com
