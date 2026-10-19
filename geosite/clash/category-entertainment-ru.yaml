@@ -10,6 +10,7 @@ payload:
   - DOMAIN-SUFFIX,kinopoisk-ru.clstorage.net
   - DOMAIN-SUFFIX,kinopoisk.ru
   - DOMAIN-SUFFIX,kinorium.com
+  - DOMAIN-SUFFIX,kp.yandex.net
   - DOMAIN-SUFFIX,more.tv
   - DOMAIN-SUFFIX,okko.sport
   - DOMAIN-SUFFIX,okko.tv
@@ -30,3 +31,5 @@ payload:
   - DOMAIN-SUFFIX,viju.ru
   - DOMAIN-SUFFIX,wink.am
   - DOMAIN-SUFFIX,wink.ru
+  - DOMAIN,kp-config-smart-tv.akamaized.net
+  - DOMAIN,kp-configs-smart-tv.s3.eu-central-1.amazonaws.com
