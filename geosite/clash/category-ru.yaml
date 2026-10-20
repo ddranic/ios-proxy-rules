@@ -670,6 +670,8 @@ payload:
   - DOMAIN-SUFFIX,tehnodom.com
   - DOMAIN-SUFFIX,telega.info
   - DOMAIN-SUFFIX,telega.me
+  - DOMAIN-SUFFIX,terratraf.com
+  - DOMAIN-SUFFIX,terratraf.io
   - DOMAIN-SUFFIX,tilda.cc
   - DOMAIN-SUFFIX,tilda.ws
   - DOMAIN-SUFFIX,tildaapi.com
