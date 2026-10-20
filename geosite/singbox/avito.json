@@ -8,8 +8,10 @@
     },
     {
       "domain_suffix": [
+        "avito.com",
         "avito.ru",
-        "avito.st"
+        "avito.st",
+        "avito.tech"
       ]
     }
   ]

@@ -62,7 +62,9 @@ payload:
   - DOMAIN-SUFFIX,attachmy.com
   - DOMAIN-SUFFIX,autoru.me
   - DOMAIN-SUFFIX,aviasales.com
+  - DOMAIN-SUFFIX,avito.com
   - DOMAIN-SUFFIX,avito.st
+  - DOMAIN-SUFFIX,avito.tech
   - DOMAIN-SUFFIX,avs.io
   - DOMAIN-SUFFIX,baltnews.com
   - DOMAIN-SUFFIX,baltnews.lt
