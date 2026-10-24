@@ -4939,6 +4939,10 @@ payload:
   - DOMAIN-SUFFIX,cdnxxx-proxy.co
   - DOMAIN-SUFFIX,cdnxxx-proxy.xyz
   - DOMAIN-SUFFIX,cdp.cloud.unity3d.com
+  - DOMAIN-SUFFIX,cdpred.services
+  - DOMAIN-SUFFIX,cdprojekt.com
+  - DOMAIN-SUFFIX,cdprojekt.red
+  - DOMAIN-SUFFIX,cdprojektred.com
   - DOMAIN-SUFFIX,cebay.com
   - DOMAIN-SUFFIX,cegid-cloud.cn
   - DOMAIN-SUFFIX,ceicdata.com
@@ -5828,6 +5832,7 @@ payload:
   - DOMAIN-SUFFIX,cyber-bay.org
   - DOMAIN-SUFFIX,cybercrimecon.com
   - DOMAIN-SUFFIX,cybermondaybeats4sale.com
+  - DOMAIN-SUFFIX,cyberpunk.net
   - DOMAIN-SUFFIX,cybersport.ru
   - DOMAIN-SUFFIX,cybertrust.co.jp
   - DOMAIN-SUFFIX,cybertrust.ne.jp
@@ -17013,6 +17018,7 @@ payload:
   - DOMAIN-SUFFIX,playfabapi.com
   - DOMAIN-SUFFIX,playfamily.ru
   - DOMAIN-SUFFIX,playforceone.com
+  - DOMAIN-SUFFIX,playgwent.com
   - DOMAIN-SUFFIX,playhearthstone.com
   - DOMAIN-SUFFIX,playmation.com
   - DOMAIN-SUFFIX,playmeow.com
@@ -20603,6 +20609,7 @@ payload:
   - DOMAIN-SUFFIX,thevirtualsexreview.com
   - DOMAIN-SUFFIX,thewaltdisneycompany.com
   - DOMAIN-SUFFIX,theweek.in
+  - DOMAIN-SUFFIX,thewitcher.com
   - DOMAIN-SUFFIX,thewonderful101.com
   - DOMAIN-SUFFIX,theyxxx.com
   - DOMAIN-SUFFIX,thieme-connect.com
