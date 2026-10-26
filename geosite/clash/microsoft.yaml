@@ -174,6 +174,7 @@ payload:
   - DOMAIN-SUFFIX,crmdynint-gcc.com
   - DOMAIN-SUFFIX,crmdynint.com
   - DOMAIN-SUFFIX,crossborderexpansion.com
+  - DOMAIN-SUFFIX,data.microsoft.com
   - DOMAIN-SUFFIX,dcg.microsoft.com
   - DOMAIN-SUFFIX,dependabot.com
   - DOMAIN-SUFFIX,devopsassessment.net
@@ -245,6 +246,7 @@ payload:
   - DOMAIN-SUFFIX,ie8.co
   - DOMAIN-SUFFIX,ie9.com
   - DOMAIN-SUFFIX,imaginecup.pl
+  - DOMAIN-SUFFIX,in.applicationinsights.azure.com
   - DOMAIN-SUFFIX,ingads.com
   - DOMAIN-SUFFIX,insiderdevtour.com
   - DOMAIN-SUFFIX,internetexplorer.co
@@ -560,6 +562,7 @@ payload:
   - DOMAIN-SUFFIX,t-msedge.net
   - DOMAIN-SUFFIX,tailwindtraders.com
   - DOMAIN-SUFFIX,techhub.ms
+  - DOMAIN-SUFFIX,telemetry.microsoft.com
   - DOMAIN-SUFFIX,tellmewhygame.com
   - DOMAIN-SUFFIX,tfsallin.net
   - DOMAIN-SUFFIX,th.bing.com
@@ -647,6 +650,8 @@ payload:
   - DOMAIN,copilot-telemetry-service.githubusercontent.com
   - DOMAIN,copilot-telemetry.githubusercontent.com
   - DOMAIN,ctldl.windowsupdate.com
+  - DOMAIN,dc.applicationinsights.azure.com
+  - DOMAIN,dc.services.visualstudio.com
   - DOMAIN,developer.microsoft.com
   - DOMAIN,download.microsoft.com
   - DOMAIN,download.visualstudio.microsoft.com
@@ -666,6 +671,7 @@ payload:
   - DOMAIN,itacademyuat.download.prss.microsoft.com
   - DOMAIN,lex.download.prss.microsoft.com
   - DOMAIN,lexuat.download.prss.microsoft.com
+  - DOMAIN,live.applicationinsights.azure.com
   - DOMAIN,mbs.download.prss.microsoft.com
   - DOMAIN,mpnbenefits.download.prss.microsoft.com
   - DOMAIN,mpnbenefitsrtl.download.prss.microsoft.com
@@ -684,6 +690,7 @@ payload:
   - DOMAIN,osrelease.download.prss.microsoft.com
   - DOMAIN,rink.hockeyapp.net
   - DOMAIN,rsm.download.prss.microsoft.com
+  - DOMAIN,rt.services.visualstudio.com
   - DOMAIN,sdx.microsoft.com
   - DOMAIN,shell.cdn.office.net
   - DOMAIN,software.download.prss.microsoft.com

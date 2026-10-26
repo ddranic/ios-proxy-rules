@@ -3,7 +3,8 @@
   "rules": [
     {
       "domain": [
-        "csis-prod.s3.amazonaws.com"
+        "csis-prod.s3.amazonaws.com",
+        "sentry.ppy.sh"
       ]
     },
     {
