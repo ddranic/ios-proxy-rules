@@ -2244,6 +2244,7 @@ payload:
   - DOMAIN-SUFFIX,artel.watch
   - DOMAIN-SUFFIX,arteldoc.com
   - DOMAIN-SUFFIX,arteldoc.tv
+  - DOMAIN-SUFFIX,artificialanalysis.ai
   - DOMAIN-SUFFIX,artixlinux.org
   - DOMAIN-SUFFIX,artnudegalleries.com
   - DOMAIN-SUFFIX,artoferotica.info
@@ -5311,6 +5312,7 @@ payload:
   - DOMAIN-SUFFIX,clickstream.sberbank.ru
   - DOMAIN-SUFFIX,client-update.queniuqe.com
   - DOMAIN-SUFFIX,climate-server.com
+  - DOMAIN-SUFFIX,cline.bot
   - DOMAIN-SUFFIX,clinical-videos.com
   - DOMAIN-SUFFIX,clinicalkey.com
   - DOMAIN-SUFFIX,clip16.com
@@ -5539,6 +5541,7 @@ payload:
   - DOMAIN-SUFFIX,comixzilla.com
   - DOMAIN-SUFFIX,comm-verse.com
   - DOMAIN-SUFFIX,commandandconquer.com
+  - DOMAIN-SUFFIX,commandcode.ai
   - DOMAIN-SUFFIX,comments.app
   - DOMAIN-SUFFIX,commerceos.com
   - DOMAIN-SUFFIX,commerzbank.ru
@@ -5590,6 +5593,7 @@ payload:
   - DOMAIN-SUFFIX,contechacademy.com
   - DOMAIN-SUFFIX,contentful.com
   - DOMAIN-SUFFIX,contest.com
+  - DOMAIN-SUFFIX,context7.com
   - DOMAIN-SUFFIX,convrgencegame.com
   - DOMAIN-SUFFIX,cookiebot.com
   - DOMAIN-SUFFIX,cookiechoices.org
@@ -8417,6 +8421,7 @@ payload:
   - DOMAIN-SUFFIX,firstns.cc
   - DOMAIN-SUFFIX,firstpelvicexam.com
   - DOMAIN-SUFFIX,firstprivatebank.com.mm
+  - DOMAIN-SUFFIX,firstrade.com
   - DOMAIN-SUFFIX,fishmpegs.com
   - DOMAIN-SUFFIX,fitbit.com
   - DOMAIN-SUFFIX,fitgirl-repacks.site
@@ -13880,6 +13885,7 @@ payload:
   - DOMAIN-SUFFIX,met-nude.com
   - DOMAIN-SUFFIX,meta.ai
   - DOMAIN-SUFFIX,meta.com
+  - DOMAIN-SUFFIX,metaaiusercontent.com
   - DOMAIN-SUFFIX,metaaivm.com
   - DOMAIN-SUFFIX,metabora.io
   - DOMAIN-SUFFIX,metabrainz.org
@@ -15743,6 +15749,7 @@ payload:
   - DOMAIN-SUFFIX,notion.site
   - DOMAIN-SUFFIX,notion.so
   - DOMAIN-SUFFIX,notionusercontent.com
+  - DOMAIN-SUFFIX,nousresearch.com
   - DOMAIN-SUFFIX,novelai.net
   - DOMAIN-SUFFIX,noveltrove.com
   - DOMAIN-SUFFIX,novids.com
@@ -20604,6 +20611,7 @@ payload:
   - DOMAIN-SUFFIX,thinkboxsoftware.com
   - DOMAIN-SUFFIX,thinkdifferent.us
   - DOMAIN-SUFFIX,thinkofliving.com
+  - DOMAIN-SUFFIX,thinkorswim.com
   - DOMAIN-SUFFIX,thinkquarterly.co.uk
   - DOMAIN-SUFFIX,thinkquarterly.com
   - DOMAIN-SUFFIX,thinkwithgoogle.com
@@ -24892,7 +24900,9 @@ payload:
   - DOMAIN,sequoia.apple.com
   - DOMAIN,service.urchin.com
   - DOMAIN,sf-api-token-service.itunes.apple.com
+  - DOMAIN,sh-pod1-smp-device.apple.com
   - DOMAIN,sh-pod2-smp-device.apple.com
+  - DOMAIN,sh-pod3-smp-device.apple.com
   - DOMAIN,shazam-insights.cdn-apple.com
   - DOMAIN,shell.cdn.office.net
   - DOMAIN,smp-device-content.apple.com
