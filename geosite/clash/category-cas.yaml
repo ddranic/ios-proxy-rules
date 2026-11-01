@@ -221,6 +221,7 @@ payload:
   - DOMAIN-SUFFIX,vodafone.de
   - DOMAIN-SUFFIX,vodafone.it
   - DOMAIN-SUFFIX,vodafone.nl
+  - DOMAIN-SUFFIX,vodafoneziggo.nl
   - DOMAIN-SUFFIX,wisecoin.com
   - DOMAIN-SUFFIX,wiseid.com
   - DOMAIN-SUFFIX,wisekey.com
@@ -229,6 +230,7 @@ payload:
   - DOMAIN-SUFFIX,wsimg.com
   - DOMAIN-SUFFIX,x.co
   - DOMAIN-SUFFIX,zert.ch
+  - DOMAIN-SUFFIX,ziggo.nl
   - DOMAIN,c.pki.goog
   - DOMAIN,cdn.globalsigncdn.com.cdn.cloudflare.net
   - DOMAIN,certs-lb.apple.com.akadns.net
