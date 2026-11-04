@@ -11,7 +11,7 @@
     },
     {
       "domain_regex": [
-        "javdb\\d+\\.com$"
+        "(^|\\.)javdb\\d+\\.com$"
       ]
     }
   ]
