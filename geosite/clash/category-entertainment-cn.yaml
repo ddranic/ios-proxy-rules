@@ -11,6 +11,8 @@ payload:
   - DOMAIN-SUFFIX,1958xy.com
   - DOMAIN-SUFFIX,1kkk.com
   - DOMAIN-SUFFIX,1xhh.cn
+  - DOMAIN-SUFFIX,1y.com
+  - DOMAIN-SUFFIX,1ycdn.com
   - DOMAIN-SUFFIX,3304399.com
   - DOMAIN-SUFFIX,3304399.net
   - DOMAIN-SUFFIX,37.com
@@ -122,6 +124,8 @@ payload:
   - DOMAIN-SUFFIX,apple.www.letv.com
   - DOMAIN-SUFFIX,arcaea.cn
   - DOMAIN-SUFFIX,ark.letv.com
+  - DOMAIN-SUFFIX,arknights.com
+  - DOMAIN-SUFFIX,arknights.com.cn
   - DOMAIN-SUFFIX,astral-vector.com
   - DOMAIN-SUFFIX,atianqi.com
   - DOMAIN-SUFFIX,atm.youku.com
@@ -407,6 +411,7 @@ payload:
   - DOMAIN-SUFFIX,hero.com
   - DOMAIN-SUFFIX,heroesports.com
   - DOMAIN-SUFFIX,herogame.com
+  - DOMAIN-SUFFIX,hgto.cc
   - DOMAIN-SUFFIX,hifuntv.com
   - DOMAIN-SUFFIX,hitv.com
   - DOMAIN-SUFFIX,hkgcloudcs.com
@@ -436,7 +441,13 @@ payload:
   - DOMAIN-SUFFIX,huoshanzhibo.com
   - DOMAIN-SUFFIX,huoshanzhibo.net
   - DOMAIN-SUFFIX,huya.com
+  - DOMAIN-SUFFIX,hycdn.cn
+  - DOMAIN-SUFFIX,hycdn.com
   - DOMAIN-SUFFIX,hypercachenode.com
+  - DOMAIN-SUFFIX,hypergryph.cn
+  - DOMAIN-SUFFIX,hypergryph.com
+  - DOMAIN-SUFFIX,hypergryph.com.cn
+  - DOMAIN-SUFFIX,hypergryph.net
   - DOMAIN-SUFFIX,hzdtv.tv
   - DOMAIN-SUFFIX,hzman.net
   - DOMAIN-SUFFIX,i3839.com
@@ -467,7 +478,6 @@ payload:
   - DOMAIN-SUFFIX,img-space.com
   - DOMAIN-SUFFIX,img4399.com
   - DOMAIN-SUFFIX,imgo.tv
-  - DOMAIN-SUFFIX,in.th
   - DOMAIN-SUFFIX,inke.cn
   - DOMAIN-SUFFIX,inkuai.com
   - DOMAIN-SUFFIX,inkwai.com
@@ -645,6 +655,7 @@ payload:
   - DOMAIN-SUFFIX,novelfmstatic.com
   - DOMAIN-SUFFIX,novelfmvod.com
   - DOMAIN-SUFFIX,nzsiteres.com
+  - DOMAIN-SUFFIX,octavedge.com
   - DOMAIN-SUFFIX,open-douyin.com
   - DOMAIN-SUFFIX,p-log.ykimg.com
   - DOMAIN-SUFFIX,papegames.cn
@@ -735,6 +746,8 @@ payload:
   - DOMAIN-SUFFIX,shuqistat.com
   - DOMAIN-SUFFIX,shyxhy.com
   - DOMAIN-SUFFIX,singworld.net
+  - DOMAIN-SUFFIX,skland.com
+  - DOMAIN-SUFFIX,skland.net
   - DOMAIN-SUFFIX,skydweller.cn
   - DOMAIN-SUFFIX,sl916.com
   - DOMAIN-SUFFIX,smgbb.cn
@@ -888,6 +901,7 @@ payload:
   - DOMAIN-SUFFIX,yximgs.com
   - DOMAIN-SUFFIX,yxwsgame.com
   - DOMAIN-SUFFIX,yy.com
+  - DOMAIN-SUFFIX,yyeshop.cn
   - DOMAIN-SUFFIX,yysls.cn
   - DOMAIN-SUFFIX,yystatic.com
   - DOMAIN-SUFFIX,yystv.cn

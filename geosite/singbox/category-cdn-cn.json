@@ -9,6 +9,9 @@
         "acadn.com",
         "aicdn.com",
         "aocde.com",
+        "baishan.com",
+        "baishancdnx.cn",
+        "baishancloud.com",
         "bbbcdns.com",
         "bootcdn.cn",
         "bootcdn.net",
@@ -76,12 +79,14 @@
         "qtlcdn.cn",
         "qtlcdn.com",
         "qtlcdn.net",
+        "saxyit.com",
         "speedws.info",
         "speedws.org",
         "staticfile.net",
         "staticfile.org",
         "tlgslb.cn",
         "tlgslb.com",
+        "trpcdn.com",
         "trpcdn.net",
         "upai.com",
         "upaiyun.com",
@@ -95,7 +100,8 @@
         "wsglb.com",
         "wsglb.net",
         "wswebcdn.com",
-        "wswebpic.com"
+        "wswebpic.com",
+        "yundun.com"
       ]
     }
   ]

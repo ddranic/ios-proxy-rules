@@ -394,6 +394,7 @@ payload:
   - DOMAIN-SUFFIX,medrocket.me
   - DOMAIN-SUFFIX,medsi.com
   - DOMAIN-SUFFIX,medsi.pro
+  - DOMAIN-SUFFIX,megabitus.com
   - DOMAIN-SUFFIX,megafon.com
   - DOMAIN-SUFFIX,megamarket.tech
   - DOMAIN-SUFFIX,mel.fm
@@ -465,6 +466,7 @@ payload:
   - DOMAIN-SUFFIX,opennet.dev
   - DOMAIN-SUFFIX,oskelly.co
   - DOMAIN-SUFFIX,ostin.com
+  - DOMAIN-SUFFIX,otzovik.com
   - DOMAIN-SUFFIX,ozon.app
   - DOMAIN-SUFFIX,ozon.by
   - DOMAIN-SUFFIX,ozon.com
@@ -738,6 +740,7 @@ payload:
   - DOMAIN-SUFFIX,unirest.tech
   - DOMAIN-SUFFIX,userapi.com
   - DOMAIN-SUFFIX,usocial.pro
+  - DOMAIN-SUFFIX,vigo.tech
   - DOMAIN-SUFFIX,vimu.tv
   - DOMAIN-SUFFIX,viqeo.tv
   - DOMAIN-SUFFIX,viqeotv.com
@@ -896,7 +899,6 @@ payload:
   - DOMAIN-SUFFIX,yandexgo.com
   - DOMAIN-SUFFIX,yandexmetrica.com
   - DOMAIN-SUFFIX,yandexwebcache.net
-  - DOMAIN-SUFFIX,yandexwebcache.org
   - DOMAIN-SUFFIX,yango-ads.com
   - DOMAIN-SUFFIX,yango-b2b.com
   - DOMAIN-SUFFIX,yango-team.com

@@ -250,7 +250,6 @@ DOMAIN-SUFFIX,ihappystudio.cn
 DOMAIN-SUFFIX,ihappystudio.com
 DOMAIN-SUFFIX,imqq.com
 DOMAIN-SUFFIX,imweb.io
-DOMAIN-SUFFIX,in.th
 DOMAIN-SUFFIX,inte.sogou.com
 DOMAIN-SUFFIX,inte.sogoucdn.com
 DOMAIN-SUFFIX,intltencentcos.com
@@ -280,6 +279,7 @@ DOMAIN-SUFFIX,kugouvoice.com
 DOMAIN-SUFFIX,kugouyouth.com
 DOMAIN-SUFFIX,kuwo.cn
 DOMAIN-SUFFIX,labycore.cn
+DOMAIN-SUFFIX,levelinfinite.com
 DOMAIN-SUFFIX,log.tbs.qq.com
 DOMAIN-SUFFIX,lrts.me
 DOMAIN-SUFFIX,lu.sogou.com
@@ -326,6 +326,7 @@ DOMAIN-SUFFIX,na-toronto.tencentcos.com
 DOMAIN-SUFFIX,nagcloudcs.com
 DOMAIN-SUFFIX,nextstudios.com
 DOMAIN-SUFFIX,nextworkshop.net
+DOMAIN-SUFFIX,nikke-en.com
 DOMAIN-SUFFIX,onexmail.com
 DOMAIN-SUFFIX,openapp.run
 DOMAIN-SUFFIX,openmidas.com
@@ -535,6 +536,7 @@ DOMAIN-SUFFIX,tencent.com.hk
 DOMAIN-SUFFIX,tencent.design
 DOMAIN-SUFFIX,tencent.net
 DOMAIN-SUFFIX,tencent.net.cn
+DOMAIN-SUFFIX,tencentads.com
 DOMAIN-SUFFIX,tencentapps.com
 DOMAIN-SUFFIX,tencentbyod.com
 DOMAIN-SUFFIX,tencentcdb.cn
@@ -564,6 +566,7 @@ DOMAIN-SUFFIX,tencentdigitalassistant.com
 DOMAIN-SUFFIX,tencentdms.com
 DOMAIN-SUFFIX,tencenteiam.com
 DOMAIN-SUFFIX,tencentelasticsearch.com
+DOMAIN-SUFFIX,tencentgames.com
 DOMAIN-SUFFIX,tencentid.com
 DOMAIN-SUFFIX,tencentidentity.com
 DOMAIN-SUFFIX,tencentmiying.com
