@@ -639,6 +639,7 @@ payload:
   - DOMAIN-SUFFIX,xboxstudios.com
   - DOMAIN-SUFFIX,xbx.lv
   - DOMAIN-SUFFIX,yammer.com
+  - DOMAIN,aurora-customization-usw2.lithium.com
   - DOMAIN,azuremigrate.download.prss.microsoft.com
   - DOMAIN,azuremigratetest.download.prss.microsoft.com
   - DOMAIN,azurestackhub.download.prss.microsoft.com
